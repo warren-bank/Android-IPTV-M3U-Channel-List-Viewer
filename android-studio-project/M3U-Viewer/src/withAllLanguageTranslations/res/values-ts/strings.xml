@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Muhlaleri</string>
+    <string name="action_exit">Humela</string>
+    <string name="action_open_m3u_url">Pfula M3U Nxaxamelo wa tinsimu URL</string>
+    <string name="action_open_m3u_file">Pfula M3U Fayili ya nxaxamelo wa tinsimu</string>
+    <string name="action_search">Lava</string>
+    <string name="action_sort_sequential">Hlela hi ku landzelelana</string>
+    <string name="action_sort_alphabetic">Hlela hi maletere</string>
+    <string name="button_open">Pfula</string>
+    <string name="button_cancel">Herisa</string>
+    <string name="dialog_open_m3u_url_title">Ngena URL</string>
+    <string name="toast_error_no_app_found">A ku kumekanga app yo tlanga tivhidiyo</string>
+</resources>

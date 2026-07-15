@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Vaataja</string>
+    <string name="action_exit">Väljumine</string>
+    <string name="action_open_m3u_url">Ava M3U Esitusloend URL</string>
+    <string name="action_open_m3u_file">Ava M3U Esitusloendi fail</string>
+    <string name="action_search">Otsing</string>
+    <string name="action_sort_sequential">Järjestada järjest</string>
+    <string name="action_sort_alphabetic">Järjesta tähestiku järgi</string>
+    <string name="button_open">Ava</string>
+    <string name="button_cancel">Tühista</string>
+    <string name="dialog_open_m3u_url_title">Sisesta URL</string>
+    <string name="toast_error_no_app_found">Videomängija rakendust ei leitud</string>
+</resources>

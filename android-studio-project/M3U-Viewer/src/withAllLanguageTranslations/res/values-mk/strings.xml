@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Гледач</string>
+    <string name="action_exit">Излез</string>
+    <string name="action_open_m3u_url">Отворено M3U Плејлиста URL</string>
+    <string name="action_open_m3u_file">Отворено M3U Датотека со плејлиста</string>
+    <string name="action_search">Пребарување</string>
+    <string name="action_sort_sequential">Сортирај по редослед</string>
+    <string name="action_sort_alphabetic">Сортирај по азбучен редослед</string>
+    <string name="button_open">Отворено</string>
+    <string name="button_cancel">Откажи</string>
+    <string name="dialog_open_m3u_url_title">Внесете URL</string>
+    <string name="toast_error_no_app_found">Не е пронајдена апликација за видео плеер</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U ビューアー</string>
+    <string name="action_exit">終了</string>
+    <string name="action_open_m3u_url">開く M3U プレイリスト URL</string>
+    <string name="action_open_m3u_file">開く M3U プレイリストファイル</string>
+    <string name="action_search">検索</string>
+    <string name="action_sort_sequential">順番に並べ替える</string>
+    <string name="action_sort_alphabetic">アルファベット順に並べ替える</string>
+    <string name="button_open">開く</string>
+    <string name="button_cancel">キャンセル</string>
+    <string name="dialog_open_m3u_url_title">入力 URL</string>
+    <string name="toast_error_no_app_found">動画再生アプリが見つかりません</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Kijker</string>
+    <string name="action_exit">Afsluiten</string>
+    <string name="action_open_m3u_url">Openen M3U Afspeellijst URL</string>
+    <string name="action_open_m3u_file">Openen M3U Afspeellijstbestand</string>
+    <string name="action_search">Zoeken</string>
+    <string name="action_sort_sequential">Oplopend sorteren</string>
+    <string name="action_sort_alphabetic">Alfabetisch sorteren</string>
+    <string name="button_open">Openen</string>
+    <string name="button_cancel">Annuleren</string>
+    <string name="dialog_open_m3u_url_title">Enter URL</string>
+    <string name="toast_error_no_app_found">Er is geen videospeler-app gevonden</string>
+</resources>

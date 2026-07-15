@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Motali</string>
+    <string name="action_exit">Bima</string>
+    <string name="action_open_m3u_url">Fungola M3U Liste ya nzembo URL</string>
+    <string name="action_open_m3u_file">Fungola M3U Fisyé ya liste ya miziki</string>
+    <string name="action_search">Luka</string>
+    <string name="action_sort_sequential">Tondisa na molongo</string>
+    <string name="action_sort_alphabetic">Tondisa na molongo ya alfabɛ</string>
+    <string name="button_open">Fungola</string>
+    <string name="button_cancel">Kata</string>
+    <string name="dialog_open_m3u_url_title">Kɔ́tá URL</string>
+    <string name="toast_error_no_app_found">Application ya kotala ba video emonani te</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Gadò</string>
+    <string name="action_exit">Sòti</string>
+    <string name="action_open_m3u_url">Ouvè M3U Lis mizik URL</string>
+    <string name="action_open_m3u_file">Ouvè M3U Fichye lis mizik</string>
+    <string name="action_search">Chèche</string>
+    <string name="action_sort_sequential">Triye nan lòd</string>
+    <string name="action_sort_alphabetic">Klase pa lòd alfabetik</string>
+    <string name="button_open">Ouvè</string>
+    <string name="button_cancel">Anile</string>
+    <string name="dialog_open_m3u_url_title">Antre URL</string>
+    <string name="toast_error_no_app_found">Pa jwenn okenn aplikasyon pou jwe videyo.</string>
+</resources>

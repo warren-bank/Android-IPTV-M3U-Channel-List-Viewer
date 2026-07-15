@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Просмотрщик</string>
+    <string name="action_exit">Выход</string>
+    <string name="action_open_m3u_url">Открыть M3U Плейлист URL</string>
+    <string name="action_open_m3u_file">Открыть M3U Файл плейлиста</string>
+    <string name="action_search">Поиск</string>
+    <string name="action_sort_sequential">Сортировать по порядку</string>
+    <string name="action_sort_alphabetic">Сортировать по алфавиту</string>
+    <string name="button_open">Открыть</string>
+    <string name="button_cancel">Отменить</string>
+    <string name="dialog_open_m3u_url_title">Введите URL</string>
+    <string name="toast_error_no_app_found">Приложение для воспроизведения видео не найдено</string>
+</resources>

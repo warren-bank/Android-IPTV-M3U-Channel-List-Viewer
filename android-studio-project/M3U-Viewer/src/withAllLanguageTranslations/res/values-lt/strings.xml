@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Peržiūros programa</string>
+    <string name="action_exit">Išeiti</string>
+    <string name="action_open_m3u_url">Atidaryti M3U Grojaraštis URL</string>
+    <string name="action_open_m3u_file">Atidaryti M3U Grojaraščio failas</string>
+    <string name="action_search">Paieška</string>
+    <string name="action_sort_sequential">Rūšiuoti eilės tvarka</string>
+    <string name="action_sort_alphabetic">Rūšiuoti abėcėlės tvarka</string>
+    <string name="button_open">Atidaryti</string>
+    <string name="button_cancel">Atšaukti</string>
+    <string name="dialog_open_m3u_url_title">Įvesti URL</string>
+    <string name="toast_error_no_app_found">Nerasta vaizdo grotuvo programėlės</string>
+</resources>

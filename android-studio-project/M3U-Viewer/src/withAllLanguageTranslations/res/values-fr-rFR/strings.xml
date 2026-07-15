@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Visionneuse</string>
+    <string name="action_exit">Sortie</string>
+    <string name="action_open_m3u_url">Ouvrir M3U Liste de lecture URL</string>
+    <string name="action_open_m3u_file">Ouvrir M3U Fichier de liste de lecture</string>
+    <string name="action_search">Rechercher</string>
+    <string name="action_sort_sequential">Trier par ordre chronologique</string>
+    <string name="action_sort_alphabetic">Trier par ordre alphabétique</string>
+    <string name="button_open">Ouvrir</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="dialog_open_m3u_url_title">Entrer URL</string>
+    <string name="toast_error_no_app_found">Aucune application de lecture vidéo n\'a été trouvée</string>
+</resources>

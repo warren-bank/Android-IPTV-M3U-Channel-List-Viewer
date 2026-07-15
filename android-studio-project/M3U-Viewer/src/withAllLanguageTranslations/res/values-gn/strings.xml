@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Ohecháva</string>
+    <string name="action_exit">Jesẽ</string>
+    <string name="action_open_m3u_url">Ojepe\'a M3U Purahéi aty URL</string>
+    <string name="action_open_m3u_file">Ojepe\'a M3U Purahéi Rysýi Rembiapo</string>
+    <string name="action_search">He\'i</string>
+    <string name="action_sort_sequential">Emohenda joapykuéri</string>
+    <string name="action_sort_alphabetic">Emohenda tai rupive</string>
+    <string name="button_open">Ojepe\'a</string>
+    <string name="button_cancel">Mboje\'a</string>
+    <string name="dialog_open_m3u_url_title">Eike URL</string>
+    <string name="toast_error_no_app_found">Ndojejuhúi app video ohechaukáva</string>
+</resources>

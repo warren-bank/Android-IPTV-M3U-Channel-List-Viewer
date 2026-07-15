@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Espectador</string>
+    <string name="action_exit">Sortida</string>
+    <string name="action_open_m3u_url">Obert M3U Llista de reproducció URL</string>
+    <string name="action_open_m3u_file">Obert M3U Fitxer de la llista de reproducció</string>
+    <string name="action_search">Cerca</string>
+    <string name="action_sort_sequential">Ordenar seqüencialment</string>
+    <string name="action_sort_alphabetic">Ordena alfabèticament</string>
+    <string name="button_open">Obert</string>
+    <string name="button_cancel">Cancel·lar</string>
+    <string name="dialog_open_m3u_url_title">Entrar URL</string>
+    <string name="toast_error_no_app_found">No s\'ha trobat cap aplicació de reproductor de vídeo</string>
+</resources>

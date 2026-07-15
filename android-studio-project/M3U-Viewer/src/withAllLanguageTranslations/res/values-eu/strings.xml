@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Ikuslea</string>
+    <string name="action_exit">Irteera</string>
+    <string name="action_open_m3u_url">Irekita M3U Entzuteko zerrenda URL</string>
+    <string name="action_open_m3u_file">Irekita M3U Playlist fitxategia</string>
+    <string name="action_search">Bilatu</string>
+    <string name="action_sort_sequential">Sequentzialki ordenatu</string>
+    <string name="action_sort_alphabetic">Hurrenkatu alfabetikoki</string>
+    <string name="button_open">Irekita</string>
+    <string name="button_cancel">Ezeztatu</string>
+    <string name="dialog_open_m3u_url_title">Sartu URL</string>
+    <string name="toast_error_no_app_found">Bideo-erreproduzitzaile aplikaziorik aurkitu ez da</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U দৰ্শক</string>
+    <string name="action_exit">বহির্গমন</string>
+    <string name="action_open_m3u_url">খোলক M3U প্লেলিষ্ট URL</string>
+    <string name="action_open_m3u_file">খোলক M3U প্লেলিষ্ট ফাইল</string>
+    <string name="action_search">খোজা</string>
+    <string name="action_sort_sequential">ক্ৰমানুসাৰে সজাওক</string>
+    <string name="action_sort_alphabetic">বৰ্ণানুক্ৰমিক কৰক</string>
+    <string name="button_open">খোলক</string>
+    <string name="button_cancel">বাতিল কৰক</string>
+    <string name="dialog_open_m3u_url_title">সোমোৱা URL</string>
+    <string name="toast_error_no_app_found">কোনো ভিডিঅ\' প্লেয়াৰ এপ পোৱা নগ\'ল</string>
+</resources>

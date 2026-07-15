@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Người xem</string>
+    <string name="action_exit">Thoát</string>
+    <string name="action_open_m3u_url">Mở M3U Danh sách phát URL</string>
+    <string name="action_open_m3u_file">Mở M3U Tệp danh sách phát</string>
+    <string name="action_search">Tìm kiếm</string>
+    <string name="action_sort_sequential">Sắp xếp theo thứ tự</string>
+    <string name="action_sort_alphabetic">Sắp xếp theo thứ tự bảng chữ cái</string>
+    <string name="button_open">Mở</string>
+    <string name="button_cancel">Hủy</string>
+    <string name="dialog_open_m3u_url_title">Nhập URL</string>
+    <string name="toast_error_no_app_found">Không tìm thấy ứng dụng phát video nào</string>
+</resources>

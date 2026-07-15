@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Veyedor</string>
+    <string name="action_exit">Salir</string>
+    <string name="action_open_m3u_url">Ubierto M3U Lista de reproducción URL</string>
+    <string name="action_open_m3u_file">Ubierto M3U Archivo de lista de reproducción</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_sort_sequential">Ordenar secuencialment</string>
+    <string name="action_sort_alphabetic">Ordenar alfabetico</string>
+    <string name="button_open">Ubierto</string>
+    <string name="button_cancel">Anular</string>
+    <string name="dialog_open_m3u_url_title">Dentrar URL</string>
+    <string name="toast_error_no_app_found">No s\'ha trobau garra aplicación de reproductor de vidio.</string>
+</resources>

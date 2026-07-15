@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Séetaan-kat</string>
+    <string name="action_exit">Génn</string>
+    <string name="action_open_m3u_url">Ubbi M3U Limu woy yi URL</string>
+    <string name="action_open_m3u_file">Ubbi M3U Dosiye playlist</string>
+    <string name="action_search">Seet</string>
+    <string name="action_sort_sequential">Tànnal ci toppante</string>
+    <string name="action_sort_alphabetic">Tànnal ci araf</string>
+    <string name="button_open">Ubbi</string>
+    <string name="button_cancel">Dindi</string>
+    <string name="dialog_open_m3u_url_title">Duggal URL</string>
+    <string name="toast_error_no_app_found">Amul benn aplikasioŋ video buñu gis</string>
+</resources>

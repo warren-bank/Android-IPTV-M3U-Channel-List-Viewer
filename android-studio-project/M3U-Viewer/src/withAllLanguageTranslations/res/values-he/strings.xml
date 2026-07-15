@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U צופה</string>
+    <string name="action_exit">יציאה</string>
+    <string name="action_open_m3u_url">פתח M3U רשימת השמעה URL</string>
+    <string name="action_open_m3u_file">פתח M3U קובץ רשימת השמעה</string>
+    <string name="action_search">חיפוש</string>
+    <string name="action_sort_sequential">מיון לפי סדר</string>
+    <string name="action_sort_alphabetic">מיון לפי סדר אלפביתי</string>
+    <string name="button_open">פתח</string>
+    <string name="button_cancel">ביטול</string>
+    <string name="dialog_open_m3u_url_title">הזן URL</string>
+    <string name="toast_error_no_app_found">לא נמצאה אפליקציית נגן וידאו</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U المشاهد</string>
+    <string name="action_exit">خروج</string>
+    <string name="action_open_m3u_url">فتح M3U قائمة التشغيل URL</string>
+    <string name="action_open_m3u_file">فتح M3U ملف قائمة التشغيل</string>
+    <string name="action_search">بحث</string>
+    <string name="action_sort_sequential">الترتيب التسلسلي</string>
+    <string name="action_sort_alphabetic">الترتيب الأبجدي</string>
+    <string name="button_open">فتح</string>
+    <string name="button_cancel">إلغاء</string>
+    <string name="dialog_open_m3u_url_title">أدخل URL</string>
+    <string name="toast_error_no_app_found">لم يتم العثور على أي تطبيق لمشغل الفيديو</string>
+</resources>

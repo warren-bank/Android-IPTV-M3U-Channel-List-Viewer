@@ -1,0 +1,4 @@
+include ':M3U-Viewer'
+
+include ':FilterableRecyclerView'
+project(':FilterableRecyclerView').projectDir = new File(rootDir, 'libs/FilterableRecyclerView-library')

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Przeglądarka</string>
+    <string name="action_exit">Wyjście</string>
+    <string name="action_open_m3u_url">Otwórz M3U Lista odtwarzania URL</string>
+    <string name="action_open_m3u_file">Otwórz M3U Plik z listą odtwarzania</string>
+    <string name="action_search">Wyszukiwanie</string>
+    <string name="action_sort_sequential">Sortuj sekwencyjnie</string>
+    <string name="action_sort_alphabetic">Sortuj alfabetycznie</string>
+    <string name="button_open">Otwórz</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="dialog_open_m3u_url_title">Wprowadź URL</string>
+    <string name="toast_error_no_app_found">Nie znaleziono aplikacji do odtwarzania filmów</string>
+</resources>

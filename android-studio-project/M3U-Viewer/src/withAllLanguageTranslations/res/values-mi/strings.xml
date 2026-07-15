@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Kaitohu</string>
+    <string name="action_exit">Putanga</string>
+    <string name="action_open_m3u_url">Whakatuwhera M3U Rārangi waiata URL</string>
+    <string name="action_open_m3u_file">Whakatuwhera M3U Kōnae Rārangi Waiata</string>
+    <string name="action_search">Rapu</string>
+    <string name="action_sort_sequential">Whakarōpū i runga i te raupapa</string>
+    <string name="action_sort_alphabetic">Whakarōpū ā-pūtautanga</string>
+    <string name="button_open">Whakatuwhera</string>
+    <string name="button_cancel">Whakakore</string>
+    <string name="dialog_open_m3u_url_title">Tomo URL</string>
+    <string name="toast_error_no_app_found">Kāore i kitea he taupānga kaitākaro ataata</string>
+</resources>

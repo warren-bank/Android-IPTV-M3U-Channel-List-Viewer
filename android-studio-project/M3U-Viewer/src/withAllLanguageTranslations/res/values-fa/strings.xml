@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U بیننده</string>
+    <string name="action_exit">خروج</string>
+    <string name="action_open_m3u_url">باز M3U لیست پخش URL</string>
+    <string name="action_open_m3u_file">باز M3U فایل پخش‌موسیقی</string>
+    <string name="action_search">جستجو</string>
+    <string name="action_sort_sequential">ترتیب زمانی</string>
+    <string name="action_sort_alphabetic">ترتیب الفبایی</string>
+    <string name="button_open">باز</string>
+    <string name="button_cancel">لغو</string>
+    <string name="dialog_open_m3u_url_title">وارد شوید URL</string>
+    <string name="toast_error_no_app_found">هیچ برنامه پخش ویدیو یافت نشد</string>
+</resources>

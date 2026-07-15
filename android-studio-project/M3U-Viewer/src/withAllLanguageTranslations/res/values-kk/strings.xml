@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Көрермен</string>
+    <string name="action_exit">Шығу</string>
+    <string name="action_open_m3u_url">Ашық M3U Плейлист URL</string>
+    <string name="action_open_m3u_file">Ашық M3U Плейлист файлы</string>
+    <string name="action_search">Іздеу</string>
+    <string name="action_sort_sequential">Кезекті ретпен сұрыптау</string>
+    <string name="action_sort_alphabetic">Әліпби бойынша сұрыптау</string>
+    <string name="button_open">Ашық</string>
+    <string name="button_cancel">Жою</string>
+    <string name="dialog_open_m3u_url_title">Кіру URL</string>
+    <string name="toast_error_no_app_found">Бейне ойнатқыш қосымшасы табылған жоқ</string>
+</resources>

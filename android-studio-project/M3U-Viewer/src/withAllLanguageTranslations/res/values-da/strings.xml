@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Seer</string>
+    <string name="action_exit">Afgang</string>
+    <string name="action_open_m3u_url">Åben M3U Afspilningsliste URL</string>
+    <string name="action_open_m3u_file">Åben M3U Afspilningslistefil</string>
+    <string name="action_search">Søg</string>
+    <string name="action_sort_sequential">Sorter i rækkefølge</string>
+    <string name="action_sort_alphabetic">Sorter alfabetisk</string>
+    <string name="button_open">Åben</string>
+    <string name="button_cancel">Annuller</string>
+    <string name="dialog_open_m3u_url_title">Indtast URL</string>
+    <string name="toast_error_no_app_found">Der blev ikke fundet nogen videoafspiller-app</string>
+</resources>

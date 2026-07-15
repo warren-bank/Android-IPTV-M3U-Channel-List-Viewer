@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Mpijery</string>
+    <string name="action_exit">Mivoaka</string>
+    <string name="action_open_m3u_url">Misokatra M3U Lisitry ny hira URL</string>
+    <string name="action_open_m3u_file">Misokatra M3U Rakitry ny lisitry ny hira</string>
+    <string name="action_search">Fikarohana</string>
+    <string name="action_sort_sequential">Alaharo araka ny filaharana</string>
+    <string name="action_sort_alphabetic">Alaharo araka ny abidy</string>
+    <string name="button_open">Misokatra</string>
+    <string name="button_cancel">Fanafoanana</string>
+    <string name="dialog_open_m3u_url_title">Midira URL</string>
+    <string name="toast_error_no_app_found">Tsy hita ny fampiharana mpilalao horonantsary</string>
+</resources>

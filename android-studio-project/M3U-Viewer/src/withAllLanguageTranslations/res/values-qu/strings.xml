@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Qhawaq</string>
+    <string name="action_exit">Lluqsinapaq</string>
+    <string name="action_open_m3u_url">Kichasqa M3U Takikuna qatiqnin URL</string>
+    <string name="action_open_m3u_file">Kichasqa M3U Takikunaq qillqasqan</string>
+    <string name="action_search">Mask\'ay</string>
+    <string name="action_sort_sequential">Qatiqatillanmanta allichay</string>
+    <string name="action_sort_alphabetic">Simi qillqahina allichay</string>
+    <string name="button_open">Kichasqa</string>
+    <string name="button_cancel">Qichuy</string>
+    <string name="dialog_open_m3u_url_title">Yaykuy URL</string>
+    <string name="toast_error_no_app_found">Mana video qhawanapaq app tarisqachu</string>
+</resources>

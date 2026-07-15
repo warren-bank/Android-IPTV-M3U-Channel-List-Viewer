@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U ผู้ชม</string>
+    <string name="action_exit">ออก</string>
+    <string name="action_open_m3u_url">เปิด M3U รายชื่อเพลง URL</string>
+    <string name="action_open_m3u_file">เปิด M3U ไฟล์เพลย์ลิสต์</string>
+    <string name="action_search">ค้นหา</string>
+    <string name="action_sort_sequential">จัดเรียงตามลำดับ</string>
+    <string name="action_sort_alphabetic">จัดเรียงตามตัวอักษร</string>
+    <string name="button_open">เปิด</string>
+    <string name="button_cancel">ยกเลิก</string>
+    <string name="dialog_open_m3u_url_title">กด Enter URL</string>
+    <string name="toast_error_no_app_found">ไม่พบแอปเล่นวิดีโอ</string>
+</resources>

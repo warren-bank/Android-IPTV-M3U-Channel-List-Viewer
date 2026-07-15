@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Visare</string>
+    <string name="action_exit">Avsluta</string>
+    <string name="action_open_m3u_url">Öppna M3U Spellista URL</string>
+    <string name="action_open_m3u_file">Öppna M3U Spellistfil</string>
+    <string name="action_search">Sök</string>
+    <string name="action_sort_sequential">Sortera i kronologisk ordning</string>
+    <string name="action_sort_alphabetic">Sortera alfabetiskt</string>
+    <string name="button_open">Öppna</string>
+    <string name="button_cancel">Avbryt</string>
+    <string name="dialog_open_m3u_url_title">Tryck på Enter URL</string>
+    <string name="toast_error_no_app_found">Ingen videospelare hittades</string>
+</resources>

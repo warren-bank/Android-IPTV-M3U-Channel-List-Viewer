@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Караусы</string>
+    <string name="action_exit">Сығыу</string>
+    <string name="action_open_m3u_url">Асыҡ M3U Плейлист URL</string>
+    <string name="action_open_m3u_file">Асыҡ M3U Плейлист файлы</string>
+    <string name="action_search">Эҙләү</string>
+    <string name="action_sort_sequential">Рәтләп сортлау</string>
+    <string name="action_sort_alphabetic">Альфа буйынса сортлау</string>
+    <string name="button_open">Асыҡ</string>
+    <string name="button_cancel">Һөҙөмтәне юҡҡа сығарыу</string>
+    <string name="dialog_open_m3u_url_title">Кер URL</string>
+    <string name="toast_error_no_app_found">Видео плеер ҡушымтаһы табылманы</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Penonton</string>
+    <string name="action_exit">Keluar</string>
+    <string name="action_open_m3u_url">Buka M3U Daftar Putar URL</string>
+    <string name="action_open_m3u_file">Buka M3U Berkas Daftar Putar</string>
+    <string name="action_search">Cari</string>
+    <string name="action_sort_sequential">Urutkan Secara Berurutan</string>
+    <string name="action_sort_alphabetic">Urutkan Berdasarkan Abjad</string>
+    <string name="button_open">Buka</string>
+    <string name="button_cancel">Batal</string>
+    <string name="dialog_open_m3u_url_title">Masuk URL</string>
+    <string name="toast_error_no_app_found">Tidak ditemukan aplikasi pemutar video</string>
+</resources>

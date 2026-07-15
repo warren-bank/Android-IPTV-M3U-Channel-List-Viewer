@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Katselija</string>
+    <string name="action_exit">Poistu</string>
+    <string name="action_open_m3u_url">Avaa M3U Soittolista URL</string>
+    <string name="action_open_m3u_file">Avaa M3U Soittolistatiedosto</string>
+    <string name="action_search">Haku</string>
+    <string name="action_sort_sequential">Lajittele järjestyksessä</string>
+    <string name="action_sort_alphabetic">Lajittele aakkosjärjestyksessä</string>
+    <string name="button_open">Avaa</string>
+    <string name="button_cancel">Peruuta</string>
+    <string name="dialog_open_m3u_url_title">Syötä URL</string>
+    <string name="toast_error_no_app_found">Videosoitin-sovellusta ei löytynyt</string>
+</resources>

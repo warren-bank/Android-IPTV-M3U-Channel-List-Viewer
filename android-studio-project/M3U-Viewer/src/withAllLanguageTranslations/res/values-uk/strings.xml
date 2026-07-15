@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Переглядач</string>
+    <string name="action_exit">Вихід</string>
+    <string name="action_open_m3u_url">Відкрити M3U Плейлист URL</string>
+    <string name="action_open_m3u_file">Відкрити M3U Файл плейлиста</string>
+    <string name="action_search">Пошук</string>
+    <string name="action_sort_sequential">Сортувати послідовно</string>
+    <string name="action_sort_alphabetic">Сортувати за алфавітом</string>
+    <string name="button_open">Відкрити</string>
+    <string name="button_cancel">Скасувати</string>
+    <string name="dialog_open_m3u_url_title">Ввести URL</string>
+    <string name="toast_error_no_app_found">Не знайдено жодного додатка для відтворення відео</string>
+</resources>

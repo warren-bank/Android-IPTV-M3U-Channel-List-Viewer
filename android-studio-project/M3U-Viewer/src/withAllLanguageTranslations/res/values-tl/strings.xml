@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Manonood</string>
+    <string name="action_exit">Lumabas</string>
+    <string name="action_open_m3u_url">Bukas M3U Playlist URL</string>
+    <string name="action_open_m3u_file">Bukas M3U File ng playlist</string>
+    <string name="action_search">Maghanap</string>
+    <string name="action_sort_sequential">Ayusin nang sunud-sunod</string>
+    <string name="action_sort_alphabetic">Ayusin ayon sa alpabeto</string>
+    <string name="button_open">Bukas</string>
+    <string name="button_cancel">I-cancel</string>
+    <string name="dialog_open_m3u_url_title">Pindutin ang Enter URL</string>
+    <string name="toast_error_no_app_found">Walang natagpuang video player na app.</string>
+</resources>

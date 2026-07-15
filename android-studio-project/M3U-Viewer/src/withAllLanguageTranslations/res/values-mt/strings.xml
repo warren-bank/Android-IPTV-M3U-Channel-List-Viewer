@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Dawk li jaraw</string>
+    <string name="action_exit">ħruġ</string>
+    <string name="action_open_m3u_url">Miftuħ M3U Lista tal-kanzunetti URL</string>
+    <string name="action_open_m3u_file">Miftuħ M3U Fajl tal-playlist</string>
+    <string name="action_search">Fittex</string>
+    <string name="action_sort_sequential">Ordna sekwenzjalment</string>
+    <string name="action_sort_alphabetic">Ordna alfabetikament</string>
+    <string name="button_open">Miftuħ</string>
+    <string name="button_cancel">Ħassar</string>
+    <string name="dialog_open_m3u_url_title">Idħol URL</string>
+    <string name="toast_error_no_app_found">Ma nstab l-ebda app tal-plejer tal-vidjo</string>
+</resources>

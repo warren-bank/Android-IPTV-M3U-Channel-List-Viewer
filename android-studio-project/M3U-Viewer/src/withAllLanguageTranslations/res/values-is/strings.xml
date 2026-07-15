@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Skoðandi</string>
+    <string name="action_exit">Útgangur</string>
+    <string name="action_open_m3u_url">Opinn M3U Spilunarlisti URL</string>
+    <string name="action_open_m3u_file">Opinn M3U Spilunarlista skrá</string>
+    <string name="action_search">Leita</string>
+    <string name="action_sort_sequential">Raða í réttri röð</string>
+    <string name="action_sort_alphabetic">Raða eftir stafrófi</string>
+    <string name="button_open">Opinn</string>
+    <string name="button_cancel">Hætta við</string>
+    <string name="dialog_open_m3u_url_title">Sláðu inn URL</string>
+    <string name="toast_error_no_app_found">Engin myndbandsspilarahforrit fundið</string>
+</resources>

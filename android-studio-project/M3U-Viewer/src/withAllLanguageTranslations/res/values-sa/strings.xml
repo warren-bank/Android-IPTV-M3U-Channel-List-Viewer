@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U दर्शकः</string>
+    <string name="action_exit">निर्गमनम्</string>
+    <string name="action_open_m3u_url">उद्घाटय M3U गीतसूची URL</string>
+    <string name="action_open_m3u_file">उद्घाटय M3U गीतसूचीपत्रकम्</string>
+    <string name="action_search">अन्वेषणम्</string>
+    <string name="action_sort_sequential">क्रमबद्धं वर्गीकुरु</string>
+    <string name="action_sort_alphabetic">वर्णक्रमेण विविन्यतु</string>
+    <string name="button_open">उद्घाटय</string>
+    <string name="button_cancel">रद्दीकरणम्</string>
+    <string name="dialog_open_m3u_url_title">प्रवेशयतु URL</string>
+    <string name="toast_error_no_app_found">कोऽपि चलच्चित्रदर्शक अनुप्रयोगः न लभ्यते।</string>
+</resources>

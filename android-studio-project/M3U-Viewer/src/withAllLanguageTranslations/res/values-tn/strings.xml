@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Molebeledi</string>
+    <string name="action_exit">Tswa</string>
+    <string name="action_open_m3u_url">Bula M3U Lenaane la dipina URL</string>
+    <string name="action_open_m3u_file">Bula M3U Faele ya lenaane la dipina</string>
+    <string name="action_search">Batla</string>
+    <string name="action_sort_sequential">Rulaganya ka go latelana</string>
+    <string name="action_sort_alphabetic">Tlhopha ka ditlhaka</string>
+    <string name="button_open">Bula</string>
+    <string name="button_cancel">Hlakola</string>
+    <string name="dialog_open_m3u_url_title">Tsena URL</string>
+    <string name="toast_error_no_app_found">Ga go na app ya go tshameka dibidio e e fitlhetsweng</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Mai kallo</string>
+    <string name="action_exit">Fita</string>
+    <string name="action_open_m3u_url">Buɗe M3U Jerin waƙoƙi URL</string>
+    <string name="action_open_m3u_file">Buɗe M3U Fayil ɗin jerin waƙoƙi</string>
+    <string name="action_search">Nemo</string>
+    <string name="action_sort_sequential">Tsara a jere</string>
+    <string name="action_sort_alphabetic">Jera bisa haruffan alif</string>
+    <string name="button_open">Buɗe</string>
+    <string name="button_cancel">Soke</string>
+    <string name="dialog_open_m3u_url_title">Shiga URL</string>
+    <string name="toast_error_no_app_found">Ba a sami manhajar mai kunna bidiyo ba</string>
+</resources>

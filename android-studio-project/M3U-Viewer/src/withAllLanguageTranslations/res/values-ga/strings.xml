@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Féachóir</string>
+    <string name="action_exit">Scoir</string>
+    <string name="action_open_m3u_url">Oscailte M3U Liosta Seinnte URL</string>
+    <string name="action_open_m3u_file">Oscailte M3U Comhad an liosta seinnte</string>
+    <string name="action_search">Cuardaigh</string>
+    <string name="action_sort_sequential">Sórtáil go seicheamhach</string>
+    <string name="action_sort_alphabetic">Sórtáil in aibítir</string>
+    <string name="button_open">Oscailte</string>
+    <string name="button_cancel">Cealaigh</string>
+    <string name="dialog_open_m3u_url_title">Cuir isteach URL</string>
+    <string name="toast_error_no_app_found">Níor aimsíodh aon aip seinnteora físeáin</string>
+</resources>

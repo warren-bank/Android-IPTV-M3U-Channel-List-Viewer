@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Spectator</string>
+    <string name="action_exit">Exitus</string>
+    <string name="action_open_m3u_url">Aperi M3U Index canticorum URL</string>
+    <string name="action_open_m3u_file">Aperi M3U Index Canticorum</string>
+    <string name="action_search">Quaere</string>
+    <string name="action_sort_sequential">Ordo sequens</string>
+    <string name="action_sort_alphabetic">Ordine Alphabeto</string>
+    <string name="button_open">Aperi</string>
+    <string name="button_cancel">Sine</string>
+    <string name="dialog_open_m3u_url_title">Ingredere URL</string>
+    <string name="toast_error_no_app_found">Nulla applicatio lusoria visifica reperta.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U காண்பவர்</string>
+    <string name="action_exit">வெளியேறு</string>
+    <string name="action_open_m3u_url">திற M3U பாடலட்டை URL</string>
+    <string name="action_open_m3u_file">திற M3U பட்டியல் கோப்பு</string>
+    <string name="action_search">தேடல்</string>
+    <string name="action_sort_sequential">தொடர்ச்சியாக வரிசைப்படுத்து</string>
+    <string name="action_sort_alphabetic">அகரவரிசைப்படுத்தவும்</string>
+    <string name="button_open">திற</string>
+    <string name="button_cancel">ரத்து செய்</string>
+    <string name="dialog_open_m3u_url_title">உள்ளே நுழைக URL</string>
+    <string name="toast_error_no_app_found">வீடியோ பிளேயர் செயலி காணப்படவில்லை</string>
+</resources>

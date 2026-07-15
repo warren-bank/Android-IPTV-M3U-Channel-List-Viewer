@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Vizualizator</string>
+    <string name="action_exit">Ieșire</string>
+    <string name="action_open_m3u_url">Deschideți M3U Listă de redare URL</string>
+    <string name="action_open_m3u_file">Deschideți M3U Fișier cu lista de redare</string>
+    <string name="action_search">Căutare</string>
+    <string name="action_sort_sequential">Sortare secvențială</string>
+    <string name="action_sort_alphabetic">Sortare alfabetică</string>
+    <string name="button_open">Deschideți</string>
+    <string name="button_cancel">Anulează</string>
+    <string name="dialog_open_m3u_url_title">Introdu URL</string>
+    <string name="toast_error_no_app_found">Nu s-a găsit nicio aplicație de redare video</string>
+</resources>

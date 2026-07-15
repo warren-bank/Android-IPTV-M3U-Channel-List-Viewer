@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Panempo</string>
+    <string name="action_exit">Kaluar</string>
+    <string name="action_open_m3u_url">Buka M3U Daptar lagu URL</string>
+    <string name="action_open_m3u_file">Buka M3U File daptar lagu</string>
+    <string name="action_search">Pilarian</string>
+    <string name="action_sort_sequential">Susun sacara runtuyan</string>
+    <string name="action_sort_alphabetic">Susun numutkeun abjad</string>
+    <string name="button_open">Buka</string>
+    <string name="button_cancel">Batalkeun</string>
+    <string name="dialog_open_m3u_url_title">Asup URL</string>
+    <string name="toast_error_no_app_found">Teu aya aplikasi pamuter video nu kapanggih</string>
+</resources>

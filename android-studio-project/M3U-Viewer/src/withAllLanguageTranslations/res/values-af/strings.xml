@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Kykker</string>
+    <string name="action_exit">Uitstek</string>
+    <string name="action_open_m3u_url">Oop M3U Speellys URL</string>
+    <string name="action_open_m3u_file">Oop M3U Speellys-lêer</string>
+    <string name="action_search">Soek</string>
+    <string name="action_sort_sequential">Sorteer opeenvolgend</string>
+    <string name="action_sort_alphabetic">Sorteer alfabeties</string>
+    <string name="button_open">Oop</string>
+    <string name="button_cancel">Kanselleer</string>
+    <string name="dialog_open_m3u_url_title">Gaan in URL</string>
+    <string name="toast_error_no_app_found">Geen video-speler-app gevind</string>
+</resources>

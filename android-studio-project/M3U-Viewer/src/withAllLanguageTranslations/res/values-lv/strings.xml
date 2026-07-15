@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Skatītājs</string>
+    <string name="action_exit">Iziet</string>
+    <string name="action_open_m3u_url">Atvērt M3U Atskaņošanas saraksts URL</string>
+    <string name="action_open_m3u_file">Atvērt M3U Atskaņošanas saraksta fails</string>
+    <string name="action_search">Meklēt</string>
+    <string name="action_sort_sequential">Šķirot secīgi</string>
+    <string name="action_sort_alphabetic">Kārtot alfabēta secībā</string>
+    <string name="button_open">Atvērt</string>
+    <string name="button_cancel">Atcelt</string>
+    <string name="dialog_open_m3u_url_title">Ievadiet URL</string>
+    <string name="toast_error_no_app_found">Netika atrasta neviena videoplayera lietotne</string>
+</resources>

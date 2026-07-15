@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U दर्शक</string>
+    <string name="action_exit">निकास</string>
+    <string name="action_open_m3u_url">खोलें M3U प्लेलिस्ट URL</string>
+    <string name="action_open_m3u_file">खोलें M3U प्लेलिस्ट फ़ाइल</string>
+    <string name="action_search">खोजें</string>
+    <string name="action_sort_sequential">क्रमबद्ध करें</string>
+    <string name="action_sort_alphabetic">वर्णानुक्रम से क्रमबद्ध करें</string>
+    <string name="button_open">खोलें</string>
+    <string name="button_cancel">रद्द करें</string>
+    <string name="dialog_open_m3u_url_title">प्रवेश करें URL</string>
+    <string name="toast_error_no_app_found">कोई वीडियो प्लेयर ऐप नहीं मिला</string>
+</resources>

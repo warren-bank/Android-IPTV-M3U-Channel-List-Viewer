@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Viewer</string>
+    <string name="action_exit">Beenden</string>
+    <string name="action_open_m3u_url">Öffnen M3U Wiedergabeliste URL</string>
+    <string name="action_open_m3u_file">Öffnen M3U Playlist-Datei</string>
+    <string name="action_search">Suche</string>
+    <string name="action_sort_sequential">Sequenziell sortieren</string>
+    <string name="action_sort_alphabetic">Alphabetisch sortieren</string>
+    <string name="button_open">Öffnen</string>
+    <string name="button_cancel">Abbrechen</string>
+    <string name="dialog_open_m3u_url_title">Eingabe URL</string>
+    <string name="toast_error_no_app_found">Es wurde keine Video-Player-App gefunden</string>
+</resources>

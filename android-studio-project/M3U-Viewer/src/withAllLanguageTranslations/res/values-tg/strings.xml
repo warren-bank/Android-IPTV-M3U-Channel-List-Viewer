@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Намоишдиҳанда</string>
+    <string name="action_exit">Баромадан</string>
+    <string name="action_open_m3u_url">Кушода M3U Рӯйхати навозиш URL</string>
+    <string name="action_open_m3u_file">Кушода M3U Файли плейлист</string>
+    <string name="action_search">Ҷустуҷӯ</string>
+    <string name="action_sort_sequential">Ба тартиб ҷобаҷо кунед</string>
+    <string name="action_sort_alphabetic">Ба тартиби алифбо ҷудо кунед</string>
+    <string name="button_open">Кушода</string>
+    <string name="button_cancel">Бекор кардан</string>
+    <string name="dialog_open_m3u_url_title">Ворид шавед URL</string>
+    <string name="toast_error_no_app_found">Ҳеҷ барномаи видеоплеери ёфт нашуд</string>
+</resources>

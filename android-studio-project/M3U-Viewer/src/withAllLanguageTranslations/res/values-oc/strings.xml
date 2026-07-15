@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Espectator</string>
+    <string name="action_exit">Sortida</string>
+    <string name="action_open_m3u_url">Dubèrt M3U Lista de reproduccion URL</string>
+    <string name="action_open_m3u_file">Dubèrt M3U Fichièr de la lista de reproduccion</string>
+    <string name="action_search">Cercar</string>
+    <string name="action_sort_sequential">Triar sequencialament</string>
+    <string name="action_sort_alphabetic">Triar alfabeticament</string>
+    <string name="button_open">Dubèrt</string>
+    <string name="button_cancel">Anullar</string>
+    <string name="dialog_open_m3u_url_title">Entrar URL</string>
+    <string name="toast_error_no_app_found">Cap d\'aplicacion de lectura de vidèos trobada</string>
+</resources>

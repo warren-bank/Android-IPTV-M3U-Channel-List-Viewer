@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Daawwataa</string>
+    <string name="action_exit">Bahi</string>
+    <string name="action_open_m3u_url">Bani M3U Tarree Weelluu URL</string>
+    <string name="action_open_m3u_file">Bani M3U Faayilii Tarree Weelluu</string>
+    <string name="action_search">Barbaadi</string>
+    <string name="action_sort_sequential">Tartiibaan kalaqi</string>
+    <string name="action_sort_alphabetic">Akka qubee tartiibi</string>
+    <string name="button_open">Bani</string>
+    <string name="button_cancel">Haqi</string>
+    <string name="dialog_open_m3u_url_title">Seeni URL</string>
+    <string name="toast_error_no_app_found">Appii viidiyoo taphachiisuu hin argamne</string>
+</resources>

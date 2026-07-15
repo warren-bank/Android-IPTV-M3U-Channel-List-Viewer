@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Үзэгч</string>
+    <string name="action_exit">Гарах</string>
+    <string name="action_open_m3u_url">Нээх M3U Тоглолтын жагсаалт URL</string>
+    <string name="action_open_m3u_file">Нээх M3U Тоглолтын жагсаалтын файл</string>
+    <string name="action_search">Хайх</string>
+    <string name="action_sort_sequential">Дарааллаар ангилах</string>
+    <string name="action_sort_alphabetic">Үсгийн дарааллаар эрэмбэлэх</string>
+    <string name="button_open">Нээх</string>
+    <string name="button_cancel">Хуцлах</string>
+    <string name="dialog_open_m3u_url_title">Орох URL</string>
+    <string name="toast_error_no_app_found">Видео тоглуулагч аппликейшн олсонгүй</string>
+</resources>

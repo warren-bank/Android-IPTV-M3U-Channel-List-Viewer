@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Panonton</string>
+    <string name="action_exit">Metu</string>
+    <string name="action_open_m3u_url">Mbukak M3U Dhaptar lagu URL</string>
+    <string name="action_open_m3u_file">Mbukak M3U Berkas Daftar Puter</string>
+    <string name="action_search">Golek</string>
+    <string name="action_sort_sequential">Urutake sacara urut</string>
+    <string name="action_sort_alphabetic">Urutake miturut abjad</string>
+    <string name="button_open">Mbukak</string>
+    <string name="button_cancel">Batal</string>
+    <string name="dialog_open_m3u_url_title">Mlebu URL</string>
+    <string name="toast_error_no_app_found">Ora ana aplikasi pemuter video sing ditemokake</string>
+</resources>

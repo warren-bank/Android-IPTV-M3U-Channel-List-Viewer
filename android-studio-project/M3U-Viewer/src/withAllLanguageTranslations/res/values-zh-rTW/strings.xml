@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U 觀看者</string>
+    <string name="action_exit">退出</string>
+    <string name="action_open_m3u_url">開啟 M3U 播放清單 URL</string>
+    <string name="action_open_m3u_file">開啟 M3U 播放清單檔案</string>
+    <string name="action_search">搜尋</string>
+    <string name="action_sort_sequential">依序排序</string>
+    <string name="action_sort_alphabetic">按字母順序排序</string>
+    <string name="button_open">開啟</string>
+    <string name="button_cancel">取消</string>
+    <string name="dialog_open_m3u_url_title">輸入 URL</string>
+    <string name="toast_error_no_app_found">未找到任何影片播放器應用程式</string>
+</resources>

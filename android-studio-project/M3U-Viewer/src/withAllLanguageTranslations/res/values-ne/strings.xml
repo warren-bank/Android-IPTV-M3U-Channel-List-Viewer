@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U दर्शक</string>
+    <string name="action_exit">बाहिर निस्कनुहोस्</string>
+    <string name="action_open_m3u_url">खोल M3U प्लेलिस्ट URL</string>
+    <string name="action_open_m3u_file">खोल M3U प्लेलिस्ट फाइल</string>
+    <string name="action_search">खोज्नुहोस्</string>
+    <string name="action_sort_sequential">क्रमबद्ध रूपमा क्रमबद्ध गर्नुहोस्</string>
+    <string name="action_sort_alphabetic">अक्षरात्मक क्रममा छान्नुहोस्</string>
+    <string name="button_open">खोल</string>
+    <string name="button_cancel">रद्द गर्नुहोस्</string>
+    <string name="dialog_open_m3u_url_title">प्रवेश गर्नुहोस् URL</string>
+    <string name="toast_error_no_app_found">भिडियो प्लेयर एप भेटिएन</string>
+</resources>

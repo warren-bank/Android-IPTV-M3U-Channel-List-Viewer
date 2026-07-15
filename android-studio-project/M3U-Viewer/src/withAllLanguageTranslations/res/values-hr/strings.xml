@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Gledatelj</string>
+    <string name="action_exit">Izlaz</string>
+    <string name="action_open_m3u_url">Otvoreno M3U Playlist URL</string>
+    <string name="action_open_m3u_file">Otvoreno M3U Datoteka s popisom pjesama</string>
+    <string name="action_search">Pretraži</string>
+    <string name="action_sort_sequential">Sortiraj po redu</string>
+    <string name="action_sort_alphabetic">Sortiraj abecednim redom</string>
+    <string name="button_open">Otvoreno</string>
+    <string name="button_cancel">Otkaži</string>
+    <string name="dialog_open_m3u_url_title">Uđi URL</string>
+    <string name="toast_error_no_app_found">Nije pronađena nijedna aplikacija za reprodukciju videa</string>
+</resources>

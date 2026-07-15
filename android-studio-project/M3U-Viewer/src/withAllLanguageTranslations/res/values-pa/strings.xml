@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U ਦਰਸ਼ਕ</string>
+    <string name="action_exit">ਬਾਹਰ ਨਿਕਲੋ</string>
+    <string name="action_open_m3u_url">ਖੋਲ੍ਹੋ M3U ਪਲੇਲਿਸਟ URL</string>
+    <string name="action_open_m3u_file">ਖੋਲ੍ਹੋ M3U ਪਲੇਲਿਸਟ ਫਾਈਲ</string>
+    <string name="action_search">ਖੋਜੋ</string>
+    <string name="action_sort_sequential">ਕ੍ਰਮਵਾਰ ਸੋਰਟ ਕਰੋ</string>
+    <string name="action_sort_alphabetic">ਵਰਣਮਾਲਾ ਅਨੁਸਾਰ ਕ੍ਰਮਬੱਧ ਕਰੋ</string>
+    <string name="button_open">ਖੋਲ੍ਹੋ</string>
+    <string name="button_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="dialog_open_m3u_url_title">ਦਾਖਲ ਕਰੋ URL</string>
+    <string name="toast_error_no_app_found">ਕੋਈ ਵੀਡੀਓ ਪਲੇਅਰ ਐਪ ਨਹੀਂ ਮਿਲੀ</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U ကြည့်ရှုသူ</string>
+    <string name="action_exit">ထွက်ရန်</string>
+    <string name="action_open_m3u_url">ဖွင့် M3U ကစားစာရင်း URL</string>
+    <string name="action_open_m3u_file">ဖွင့် M3U ကစားစာရင်း ဖိုင်</string>
+    <string name="action_search">ရှာဖွေ</string>
+    <string name="action_sort_sequential">အဆင့်လိုက် စီရန်</string>
+    <string name="action_sort_alphabetic">အက္ခရာအလိုက် စီရန်</string>
+    <string name="button_open">ဖွင့်</string>
+    <string name="button_cancel">ဖျက်ရန်</string>
+    <string name="dialog_open_m3u_url_title">ထည့်ပါ URL</string>
+    <string name="toast_error_no_app_found">ဗီဒီယိုဖွင့်ပလေယာအက်ပ် မတွေ့ပါ။</string>
+</resources>

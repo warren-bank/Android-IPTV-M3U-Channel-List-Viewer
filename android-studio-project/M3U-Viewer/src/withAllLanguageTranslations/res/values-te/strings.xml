@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U దృశ్యకర్త</string>
+    <string name="action_exit">నిష్క్రమించు</string>
+    <string name="action_open_m3u_url">తెరవండి M3U ప్లేలిస్ట్ URL</string>
+    <string name="action_open_m3u_file">తెరవండి M3U ప్లేలిస్ట్ ఫైల్</string>
+    <string name="action_search">శోధన</string>
+    <string name="action_sort_sequential">క్రమంగా అమర్చండి</string>
+    <string name="action_sort_alphabetic">అక్షర క్రమంలో అమర్చు</string>
+    <string name="button_open">తెరవండి</string>
+    <string name="button_cancel">రద్దు చేయండి</string>
+    <string name="dialog_open_m3u_url_title">ప్రవేశించండి URL</string>
+    <string name="toast_error_no_app_found">వీడియో ప్లేయర్ యాప్ కనుగొనబడలేదు</string>
+</resources>

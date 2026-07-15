@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Umbonisi</string>
+    <string name="action_exit">Phuma</string>
+    <string name="action_open_m3u_url">Vula M3U Uluhlu lweengoma URL</string>
+    <string name="action_open_m3u_file">Vula M3U Ifayile yodlalo</string>
+    <string name="action_search">Khangela</string>
+    <string name="action_sort_sequential">Cwangcisa ngokulandelelana</string>
+    <string name="action_sort_alphabetic">Cwangcisa ngokwe-alfabhethi</string>
+    <string name="button_open">Vula</string>
+    <string name="button_cancel">Rhoxisa</string>
+    <string name="dialog_open_m3u_url_title">Ngena URL</string>
+    <string name="toast_error_no_app_found">Akukho app yokudlala iividiyo ifunyenweyo</string>
+</resources>

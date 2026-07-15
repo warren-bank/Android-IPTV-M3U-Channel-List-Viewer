@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U Gwelet</string>
+    <string name="action_exit">Emaout o kuitaat ar bajenn-mañ.</string>
+    <string name="action_open_m3u_url">Digor M3U Roll sonioù URL</string>
+    <string name="action_open_m3u_file">Digor M3U Restroll ar sonerezh</string>
+    <string name="action_search">Klask</string>
+    <string name="action_sort_sequential">Renkañ dre urzh</string>
+    <string name="action_sort_alphabetic">Renkañ dre an urzh alfabetek</string>
+    <string name="button_open">Digor</string>
+    <string name="button_cancel">Riklañ</string>
+    <string name="dialog_open_m3u_url_title">Mont e-barzh URL</string>
+    <string name="toast_error_no_app_found">N\'eus bet kavet arload lenn video ebet</string>
+</resources>

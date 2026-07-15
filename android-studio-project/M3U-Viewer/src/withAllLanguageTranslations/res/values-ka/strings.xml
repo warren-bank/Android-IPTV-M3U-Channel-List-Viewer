@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M3U მაყურებელი</string>
+    <string name="action_exit">გამოსვლა</string>
+    <string name="action_open_m3u_url">გახსნილი M3U პლეისლიsti URL</string>
+    <string name="action_open_m3u_file">გახსნილი M3U პლეილისტის ფაილი</string>
+    <string name="action_search">ძიება</string>
+    <string name="action_sort_sequential">დალაგება თანმიმდევრობით</string>
+    <string name="action_sort_alphabetic">დალაგება ანბანის მიხედვით</string>
+    <string name="button_open">გახსნილი</string>
+    <string name="button_cancel">გაუქმება</string>
+    <string name="dialog_open_m3u_url_title">შეიყვანეთ URL</string>
+    <string name="toast_error_no_app_found">ვიდეო დამკვრელის აპლიკაცია ვერ მოიძებნა</string>
+</resources>
