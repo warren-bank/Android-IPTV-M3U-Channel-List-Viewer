@@ -95,6 +95,22 @@ public class ChannelsActivity extends AppCompatActivity implements FilterableLis
         initToolbar();
         initRecyclerView();
         initSort();
+
+        onNewIntent(getIntent());
+    }
+
+    @Override
+    protected void onNewIntent(Intent intent) {
+        try {
+            Uri data = intent.getData();
+            if (data == null) return;
+
+            String urlText = data.toString().trim();
+            if (urlText.isEmpty()) return;
+
+            // Do network on a background thread
+            new Thread(() -> openUrlAsStream(urlText)).start();
+        } catch (Exception ignored) {}
     }
 
     // ---------------------------------------------------------------------------------------------
