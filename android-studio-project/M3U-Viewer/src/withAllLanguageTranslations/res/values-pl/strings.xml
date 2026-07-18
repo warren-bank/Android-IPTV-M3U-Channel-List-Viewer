@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Przeglądarka</string>
-    <string name="action_exit">Wyjście</string>
     <string name="action_open_m3u_url">Otwórz M3U Lista odtwarzania URL</string>
-    <string name="action_open_m3u_file">Otwórz M3U Plik z listą odtwarzania</string>
+    <string name="action_open_m3u_file">Otwórz M3U Plik listy odtwarzania</string>
     <string name="action_search">Wyszukiwanie</string>
     <string name="action_sort_sequential">Sortuj sekwencyjnie</string>
     <string name="action_sort_alphabetic">Sortuj alfabetycznie</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="action_exit">Wyjście</string>
     <string name="button_open">Otwórz</string>
     <string name="button_cancel">Anuluj</string>
     <string name="dialog_open_m3u_url_title">Wprowadź URL</string>
     <string name="toast_error_no_app_found">Nie znaleziono aplikacji do odtwarzania filmów</string>
+  <string name="pref_default_m3u_url_title">Domyślnie M3U Lista odtwarzania URL</string>
+  <string name="pref_default_m3u_url_summary">Wartość początkowa w \"Otwórz M3U Lista odtwarzania URL\" okno dialogowe.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanał URL Szablon</string>
+  <string name="pref_channel_url_template_summary">Gdy jakikolwiek kanał URL w M3U nie zaczyna się od \"http\", przetworzyć to jako listę wartości rozdzielonych przecinkami w celu podstawienia do tego URL szablon.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

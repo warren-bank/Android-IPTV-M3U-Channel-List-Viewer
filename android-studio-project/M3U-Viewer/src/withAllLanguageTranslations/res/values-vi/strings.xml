@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Người xem</string>
-    <string name="action_exit">Thoát</string>
     <string name="action_open_m3u_url">Mở M3U Danh sách phát URL</string>
     <string name="action_open_m3u_file">Mở M3U Tệp danh sách phát</string>
     <string name="action_search">Tìm kiếm</string>
     <string name="action_sort_sequential">Sắp xếp theo thứ tự</string>
     <string name="action_sort_alphabetic">Sắp xếp theo thứ tự bảng chữ cái</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_exit">Thoát</string>
     <string name="button_open">Mở</string>
     <string name="button_cancel">Hủy</string>
     <string name="dialog_open_m3u_url_title">Nhập URL</string>
     <string name="toast_error_no_app_found">Không tìm thấy ứng dụng phát video nào</string>
+  <string name="pref_default_m3u_url_title">Mặc định M3U Danh sách phát URL</string>
+  <string name="pref_default_m3u_url_summary">Giá trị ban đầu trong \"Mở M3U Danh sách phát URL\" hộp thoại.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kênh URL Mẫu</string>
+  <string name="pref_channel_url_template_summary">Khi bất kỳ kênh nào URL trong M3U không bắt đầu bằng \"http\", xử lý nó dưới dạng danh sách các giá trị được phân tách bằng dấu phẩy để thay thế vào đây URL mẫu.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

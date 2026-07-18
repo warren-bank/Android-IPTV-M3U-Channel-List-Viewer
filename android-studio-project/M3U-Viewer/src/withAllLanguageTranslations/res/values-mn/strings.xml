@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Үзэгч</string>
-    <string name="action_exit">Гарах</string>
     <string name="action_open_m3u_url">Нээх M3U Тоглолтын жагсаалт URL</string>
     <string name="action_open_m3u_file">Нээх M3U Тоглолтын жагсаалтын файл</string>
     <string name="action_search">Хайх</string>
     <string name="action_sort_sequential">Дарааллаар ангилах</string>
     <string name="action_sort_alphabetic">Үсгийн дарааллаар эрэмбэлэх</string>
+    <string name="action_settings">Тохиргоо</string>
+    <string name="action_exit">Гарах</string>
     <string name="button_open">Нээх</string>
     <string name="button_cancel">Хуцлах</string>
     <string name="dialog_open_m3u_url_title">Орох URL</string>
     <string name="toast_error_no_app_found">Видео тоглуулагч аппликейшн олсонгүй</string>
+  <string name="pref_default_m3u_url_title">Анхдагч M3U Тоглолтын жагсаалт URL</string>
+  <string name="pref_default_m3u_url_summary">Оролт дахь анхны утга \"Нээх M3U Тоглолтын жагсаалт URL\" харилцах.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Сув URL Бүхэл загвар</string>
+  <string name="pref_channel_url_template_summary">Аль ч сувгаар URL дэх M3U эхилэхгүй \"http\", Үүнийг энэ дотор солих үнэ цэнийн таслалаар тусгаарлагдсан жагсаалт гэж задлан унших URL бүдэв.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

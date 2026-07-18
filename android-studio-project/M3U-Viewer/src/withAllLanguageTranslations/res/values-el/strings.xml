@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Πρόγραμμα προβολής</string>
-    <string name="action_exit">Έξοδος</string>
     <string name="action_open_m3u_url">Άνοιγμα M3U Λίστα αναπαραγωγής URL</string>
     <string name="action_open_m3u_file">Άνοιγμα M3U Αρχείο λίστας αναπαραγωγής</string>
     <string name="action_search">Αναζήτηση</string>
     <string name="action_sort_sequential">Ταξινόμηση κατά σειρά</string>
     <string name="action_sort_alphabetic">Αλφαβητική ταξινόμηση</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="action_exit">Έξοδος</string>
     <string name="button_open">Άνοιγμα</string>
     <string name="button_cancel">Ακύρωση</string>
     <string name="dialog_open_m3u_url_title">Εισαγωγή URL</string>
     <string name="toast_error_no_app_found">Δεν βρέθηκε εφαρμογή αναπαραγωγής βίντεο</string>
+  <string name="pref_default_m3u_url_title">Προεπιλογή M3U Λίστα αναπαραγωγής URL</string>
+  <string name="pref_default_m3u_url_summary">Αρχική τιμή σε \"Άνοιγμα M3U Λίστα αναπαραγωγής URL\" διάλογος.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Κανάλι URL Πρότυπο</string>
+  <string name="pref_channel_url_template_summary">Όταν κάποιο κανάλι URL στο M3U δεν ξεκινά με \"http\", να το αναλύσει ως λίστα τιμών διαχωρισμένων με κόμμα, ώστε να αντικατασταθούν σε αυτό URL πρότυπο.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

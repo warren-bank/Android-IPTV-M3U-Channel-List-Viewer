@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Muhlaleri</string>
-    <string name="action_exit">Humela</string>
     <string name="action_open_m3u_url">Pfula M3U Nxaxamelo wa tinsimu URL</string>
     <string name="action_open_m3u_file">Pfula M3U Fayili ya nxaxamelo wa tinsimu</string>
     <string name="action_search">Lava</string>
     <string name="action_sort_sequential">Hlela hi ku landzelelana</string>
     <string name="action_sort_alphabetic">Hlela hi maletere</string>
+    <string name="action_settings">Swilunghiselo</string>
+    <string name="action_exit">Humela</string>
     <string name="button_open">Pfula</string>
     <string name="button_cancel">Herisa</string>
     <string name="dialog_open_m3u_url_title">Ngena URL</string>
     <string name="toast_error_no_app_found">A ku kumekanga app yo tlanga tivhidiyo</string>
+  <string name="pref_default_m3u_url_title">Lexi tolovelekeke M3U Nxaxamelo wa tinsimu URL</string>
+  <string name="pref_default_m3u_url_summary">Ntsengo wo sungula endzeni \"Pfula M3U Nxaxamelo wa tinsimu URL\" bulo.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Xitichi URL Xikombiso</string>
+  <string name="pref_channel_url_template_summary">Loko xitichi xihi na xihi URL eka M3U a nga sunguli hi \"http\", Hlahluva swona tanihi nxaxamelo wa tinhlayo lowu hambanisiweke hi khoma, leswaku swi siviwa eka leswi. URL xikombiso.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Néző</string>
-    <string name="action_exit">Kilépés</string>
-    <string name="action_open_m3u_url">Nyitás M3U Lejátszási lista URL</string>
-    <string name="action_open_m3u_file">Nyitás M3U Lejátszási lista fájl</string>
+    <string name="action_open_m3u_url">Megnyitás M3U Lejátszási lista URL</string>
+    <string name="action_open_m3u_file">Megnyitás M3U Lejátszási lista fájl</string>
     <string name="action_search">Keresés</string>
     <string name="action_sort_sequential">Sorba rendezés</string>
     <string name="action_sort_alphabetic">Ábécésorrendbe rendezés</string>
-    <string name="button_open">Nyitás</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="action_exit">Kilépés</string>
+    <string name="button_open">Megnyitás</string>
     <string name="button_cancel">Mégse</string>
     <string name="dialog_open_m3u_url_title">Belépés URL</string>
-    <string name="toast_error_no_app_found">Nem található videolejátszó-alkalmazás</string>
+    <string name="toast_error_no_app_found">Nem találtam videolejátszó alkalmazást</string>
+  <string name="pref_default_m3u_url_title">Alapértelmezett M3U Lejátszási lista URL</string>
+  <string name="pref_default_m3u_url_summary">Kezdőérték a \"Megnyitás M3U Lejátszási lista URL\" párbeszéd.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Csatorna URL Sablon</string>
+  <string name="pref_channel_url_template_summary">Ha bármelyik csatorna URL a M3U nem kezdődik azzal, hogy \"http\", elemzd ki, mint vesszővel elválasztott értékek listáját, hogy behelyettesítsd ebbe URL sablon.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

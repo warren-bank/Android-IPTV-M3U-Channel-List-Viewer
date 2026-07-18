@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Visor</string>
-    <string name="action_exit">Salir</string>
     <string name="action_open_m3u_url">Abrir M3U Lista de reproducción URL</string>
     <string name="action_open_m3u_file">Abrir M3U Archivo de lista de reproducción</string>
     <string name="action_search">Buscar</string>
     <string name="action_sort_sequential">Ordenar secuencialmente</string>
     <string name="action_sort_alphabetic">Ordenar alfabéticamente</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_exit">Salir</string>
     <string name="button_open">Abrir</string>
     <string name="button_cancel">Cancelar</string>
     <string name="dialog_open_m3u_url_title">Ingresar URL</string>
     <string name="toast_error_no_app_found">No se encontró ninguna aplicación de reproducción de video</string>
+  <string name="pref_default_m3u_url_title">Por defecto M3U Lista de reproducción URL</string>
+  <string name="pref_default_m3u_url_summary">Valor inicial en \"Abrir M3U Lista de reproducción URL\" diálogo.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Canal URL Plantilla</string>
+  <string name="pref_channel_url_template_summary">Cuando cualquier canal URL en el M3U no comienza con \"http\", analizarlo como una lista de valores separados por comas para sustituirlos en esto URL plantilla.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

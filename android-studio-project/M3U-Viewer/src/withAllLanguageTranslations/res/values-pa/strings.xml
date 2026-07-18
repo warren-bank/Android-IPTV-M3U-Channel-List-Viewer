@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U ਦਰਸ਼ਕ</string>
-    <string name="action_exit">ਬਾਹਰ ਨਿਕਲੋ</string>
     <string name="action_open_m3u_url">ਖੋਲ੍ਹੋ M3U ਪਲੇਲਿਸਟ URL</string>
     <string name="action_open_m3u_file">ਖੋਲ੍ਹੋ M3U ਪਲੇਲਿਸਟ ਫਾਈਲ</string>
     <string name="action_search">ਖੋਜੋ</string>
     <string name="action_sort_sequential">ਕ੍ਰਮਵਾਰ ਸੋਰਟ ਕਰੋ</string>
     <string name="action_sort_alphabetic">ਵਰਣਮਾਲਾ ਅਨੁਸਾਰ ਕ੍ਰਮਬੱਧ ਕਰੋ</string>
+    <string name="action_settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="action_exit">ਬਾਹਰ ਨਿਕਲੋ</string>
     <string name="button_open">ਖੋਲ੍ਹੋ</string>
     <string name="button_cancel">ਰੱਦ ਕਰੋ</string>
     <string name="dialog_open_m3u_url_title">ਦਾਖਲ ਕਰੋ URL</string>
     <string name="toast_error_no_app_found">ਕੋਈ ਵੀਡੀਓ ਪਲੇਅਰ ਐਪ ਨਹੀਂ ਮਿਲੀ</string>
+  <string name="pref_default_m3u_url_title">ਮੂਲ M3U ਪਲੇਲਿਸਟ URL</string>
+  <string name="pref_default_m3u_url_summary">ਵਿੱਚ ਸ਼ੁਰੂਆਤੀ ਮੁੱਲ \"ਖੋਲ੍ਹੋ M3U ਪਲੇਲਿਸਟ URL\" ਗੱਲਬਾਤ.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">ਚੈਨਲ URL ਨਮੂਨਾ</string>
+  <string name="pref_channel_url_template_summary">ਜਦੋਂ ਵੀ ਕੋਈ ਚੈਨਲ URL ਵਿੱਚ M3U ਨਾਲ ਸ਼ੁਰੂ ਨਹੀਂ ਹੁੰਦਾ \"http\", ਇਸ ਵਿੱਚ ਬਦਲਣ ਲਈ ਇਸਨੂੰ ਕਾਮਾ-ਵਿਛੋੜੇ ਕੀਤੇ ਮੁੱਲਾਂ ਦੀ ਸੂਚੀ ਵਜੋਂ ਵਿਛੋੜੋ। URL ਨਮੂਨਾ.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U 시청자</string>
-    <string name="action_exit">종료</string>
     <string name="action_open_m3u_url">열기 M3U 재생 목록 URL</string>
     <string name="action_open_m3u_file">열기 M3U 재생 목록 파일</string>
     <string name="action_search">검색</string>
     <string name="action_sort_sequential">순차적으로 정렬</string>
-    <string name="action_sort_alphabetic">알파벳순으로 정렬</string>
+    <string name="action_sort_alphabetic">알파벳순 정렬</string>
+    <string name="action_settings">설정</string>
+    <string name="action_exit">종료</string>
     <string name="button_open">열기</string>
     <string name="button_cancel">취소</string>
     <string name="dialog_open_m3u_url_title">입력 URL</string>
-    <string name="toast_error_no_app_found">동영상 플레이어 앱을 찾을 수 없습니다</string>
+    <string name="toast_error_no_app_found">동영상 플레이어 앱을 찾을 수 없습니다.</string>
+  <string name="pref_default_m3u_url_title">기본값 M3U 재생 목록 URL</string>
+  <string name="pref_default_m3u_url_summary">초기값은 \"열기 M3U 재생 목록 URL\" 대화.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">채널 URL 템플릿</string>
+  <string name="pref_channel_url_template_summary">어떤 채널이든 URL 에서 M3U ~로 시작하지 않는다 \"http\", 이 값을 쉼표로 구분된 값 목록으로 파싱하여 여기에 대입합니다 URL 템플릿.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

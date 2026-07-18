@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Gwelet</string>
-    <string name="action_exit">Emaout o kuitaat ar bajenn-mañ.</string>
     <string name="action_open_m3u_url">Digor M3U Roll sonioù URL</string>
     <string name="action_open_m3u_file">Digor M3U Restroll ar sonerezh</string>
     <string name="action_search">Klask</string>
-    <string name="action_sort_sequential">Renkañ dre urzh</string>
+    <string name="action_sort_sequential">Renkañ a-steud</string>
     <string name="action_sort_alphabetic">Renkañ dre an urzh alfabetek</string>
+    <string name="action_settings">Arventennoù</string>
+    <string name="action_exit">Emaout o kuitaat ar bajenn-mañ.</string>
     <string name="button_open">Digor</string>
     <string name="button_cancel">Riklañ</string>
     <string name="dialog_open_m3u_url_title">Mont e-barzh URL</string>
     <string name="toast_error_no_app_found">N\'eus bet kavet arload lenn video ebet</string>
+  <string name="pref_default_m3u_url_title">Diouer M3U Roll sonioù URL</string>
+  <string name="pref_default_m3u_url_summary">Talvoudegezh kentañ e \"Digor M3U Roll sonioù URL\" Kaozeadenn.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanal URL Patrom</string>
+  <string name="pref_channel_url_template_summary">Pa forzh peseurt kanal URL er M3U Ne grog ket gant \"http\", Enaouennañ anezhañ evel ur roll talvou dispartiet gant kammou evit o erlec\'hiañ en dra-mañ. URL Patrom.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

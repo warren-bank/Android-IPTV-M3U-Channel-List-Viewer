@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Espectator</string>
-    <string name="action_exit">Sortida</string>
     <string name="action_open_m3u_url">Dubèrt M3U Lista de reproduccion URL</string>
     <string name="action_open_m3u_file">Dubèrt M3U Fichièr de la lista de reproduccion</string>
     <string name="action_search">Cercar</string>
     <string name="action_sort_sequential">Triar sequencialament</string>
     <string name="action_sort_alphabetic">Triar alfabeticament</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_exit">Sortida</string>
     <string name="button_open">Dubèrt</string>
     <string name="button_cancel">Anullar</string>
     <string name="dialog_open_m3u_url_title">Entrar URL</string>
     <string name="toast_error_no_app_found">Cap d\'aplicacion de lectura de vidèos trobada</string>
+  <string name="pref_default_m3u_url_title">Per defaut M3U Lista de reproduccion URL</string>
+  <string name="pref_default_m3u_url_summary">Valor iniciala dins \"Dubèrt M3U Lista de reproduccion URL\" Dialòg.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Canal URL Modèl</string>
+  <string name="pref_channel_url_template_summary">Quand quina que siá cadena URL dins lo M3U comença pas amb \"http\", Lo parser coma una lista de valors separats per virgulas per la substitucion dins aquò. URL modèl.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

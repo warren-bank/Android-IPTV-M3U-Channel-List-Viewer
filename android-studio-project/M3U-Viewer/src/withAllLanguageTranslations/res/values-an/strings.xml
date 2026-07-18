@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Veyedor</string>
-    <string name="action_exit">Salir</string>
     <string name="action_open_m3u_url">Ubierto M3U Lista de reproducción URL</string>
     <string name="action_open_m3u_file">Ubierto M3U Archivo de lista de reproducción</string>
     <string name="action_search">Buscar</string>
     <string name="action_sort_sequential">Ordenar secuencialment</string>
     <string name="action_sort_alphabetic">Ordenar alfabetico</string>
+    <string name="action_settings">Aconfiguracions</string>
+    <string name="action_exit">Salir</string>
     <string name="button_open">Ubierto</string>
     <string name="button_cancel">Anular</string>
     <string name="dialog_open_m3u_url_title">Dentrar URL</string>
-    <string name="toast_error_no_app_found">No s\'ha trobau garra aplicación de reproductor de vidio.</string>
+    <string name="toast_error_no_app_found">No s\'ha trobau garra aplicación de reproductor de video.</string>
+  <string name="pref_default_m3u_url_title">Por defecto M3U Lista de reproducción URL</string>
+  <string name="pref_default_m3u_url_summary">Valor inicial en \"Ubierto M3U Lista de reproducción URL\" Dialogo.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Canal URL Plantilla</string>
+  <string name="pref_channel_url_template_summary">Cuan cualsiquier canal URL en o M3U no prencipia con \"http\", Analizar-lo como una lista de valors separada por comas pa la substitución en isto URL Plantilla.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

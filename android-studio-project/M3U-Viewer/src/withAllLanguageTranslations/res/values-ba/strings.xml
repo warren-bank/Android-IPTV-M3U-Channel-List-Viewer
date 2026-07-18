@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Караусы</string>
-    <string name="action_exit">Сығыу</string>
     <string name="action_open_m3u_url">Асыҡ M3U Плейлист URL</string>
     <string name="action_open_m3u_file">Асыҡ M3U Плейлист файлы</string>
     <string name="action_search">Эҙләү</string>
     <string name="action_sort_sequential">Рәтләп сортлау</string>
-    <string name="action_sort_alphabetic">Альфа буйынса сортлау</string>
+    <string name="action_sort_alphabetic">Альфа тәртибендә сортлау</string>
+    <string name="action_settings">Көйләүҙәр</string>
+    <string name="action_exit">Сығыу</string>
     <string name="button_open">Асыҡ</string>
     <string name="button_cancel">Һөҙөмтәне юҡҡа сығарыу</string>
     <string name="dialog_open_m3u_url_title">Кер URL</string>
     <string name="toast_error_no_app_found">Видео плеер ҡушымтаһы табылманы</string>
+  <string name="pref_default_m3u_url_title">Төп M3U Плейлист URL</string>
+  <string name="pref_default_m3u_url_summary">Башланғыс ҡиммәт \"Асыҡ M3U Плейлист URL\" диалог.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Канал URL Шаблон</string>
+  <string name="pref_channel_url_template_summary">Теләсә ниндәй канал булғанда URL эсендә M3U башланмай \"http\", Уны был урынға алмаштырыу өсөн үңәләрҙең үңә-үңә айырылған исемлеге итеп парсинг итегеҙ. URL шаблон.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

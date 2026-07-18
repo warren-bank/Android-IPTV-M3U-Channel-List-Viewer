@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Onye na-ekiri</string>
-    <string name="action_exit">Pụọ</string>
     <string name="action_open_m3u_url">Mepee M3U Ndepụta egwu URL</string>
     <string name="action_open_m3u_file">Mepee M3U Faịlụ ndepụta egwu</string>
     <string name="action_search">Chọọ</string>
     <string name="action_sort_sequential">Tọọ n\'usoro</string>
     <string name="action_sort_alphabetic">Tọọ n\'usoro mkpụrụedemede</string>
+    <string name="action_settings">Ntọala</string>
+    <string name="action_exit">Pụọ</string>
     <string name="button_open">Mepee</string>
     <string name="button_cancel">Kwụsị</string>
     <string name="dialog_open_m3u_url_title">Banye URL</string>
     <string name="toast_error_no_app_found">Enweghị ngwa igwu vidiyo achọtara</string>
+  <string name="pref_default_m3u_url_title">Ntọala M3U Ndepụta egwu URL</string>
+  <string name="pref_default_m3u_url_summary">Ọnụahịa mbido n\'ime \"Mepee M3U Ndepụta egwu URL\" mkparịta ụka.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Ụzọ mgbasa ozi URL Nlereanya</string>
+  <string name="pref_channel_url_template_summary">Mgbe ọ bụla ọwa ọ bụla URL n\'ime M3U anaghị amalite na \"http\", Kọwa ya dị ka ndepụta uru e kewara site na koma maka dochie n\'ime nke a URL Nlereanya.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

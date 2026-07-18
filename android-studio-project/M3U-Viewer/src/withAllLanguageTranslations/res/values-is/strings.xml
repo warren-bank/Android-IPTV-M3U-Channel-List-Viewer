@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Skoðandi</string>
-    <string name="action_exit">Útgangur</string>
     <string name="action_open_m3u_url">Opinn M3U Spilunarlisti URL</string>
     <string name="action_open_m3u_file">Opinn M3U Spilunarlista skrá</string>
     <string name="action_search">Leita</string>
     <string name="action_sort_sequential">Raða í réttri röð</string>
     <string name="action_sort_alphabetic">Raða eftir stafrófi</string>
+    <string name="action_settings">Stillingar</string>
+    <string name="action_exit">Útgangur</string>
     <string name="button_open">Opinn</string>
-    <string name="button_cancel">Hætta við</string>
+    <string name="button_cancel">Hætta</string>
     <string name="dialog_open_m3u_url_title">Sláðu inn URL</string>
     <string name="toast_error_no_app_found">Engin myndbandsspilarahforrit fundið</string>
+  <string name="pref_default_m3u_url_title">Sjálfgefið M3U Spilunarlisti URL</string>
+  <string name="pref_default_m3u_url_summary">Upphafleg gildi í \"Opinn M3U Spilunarlisti URL\" Skilaboðargluggi.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Rás URL Sniðmát</string>
+  <string name="pref_channel_url_template_summary">Þegar hvaða rás sem er URL í M3U byrjar ekki með \"http\", greina það sem kommuskilinn lista gilda til að setja inn í þetta URL sniðmát.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

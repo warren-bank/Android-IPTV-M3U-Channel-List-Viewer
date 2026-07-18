@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">M3U Mohlaleli</string>
-    <string name="action_exit">Tsoa</string>
+    <string name="app_name">M3U Mohloli</string>
     <string name="action_open_m3u_url">Bula M3U Lenane la lipina URL</string>
     <string name="action_open_m3u_file">Bula M3U Faele ea lenane la lipina</string>
     <string name="action_search">Batla</string>
     <string name="action_sort_sequential">Hlophisa ka tatellano</string>
-    <string name="action_sort_alphabetic">Hlophisa ka tšepe</string>
+    <string name="action_sort_alphabetic">Hlophisa ka tšebetso ea litlhaku</string>
+    <string name="action_settings">Litlhophiso</string>
+    <string name="action_exit">Tsoa</string>
     <string name="button_open">Bula</string>
     <string name="button_cancel">Hlakola</string>
     <string name="dialog_open_m3u_url_title">Kena URL</string>
-    <string name="toast_error_no_app_found">Ha ho fumanehe app ea ho bapala livideo</string>
+    <string name="toast_error_no_app_found">Ha ho fumanoe app ea sebapali sa video</string>
+  <string name="pref_default_m3u_url_title">Tloaelehileng M3U Lenane la lipina URL</string>
+  <string name="pref_default_m3u_url_summary">Boleng ba pele ka hare \"Bula M3U Lenane la lipina URL\" Puisano.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Khoele URL Mohlala</string>
+  <string name="pref_channel_url_template_summary">Haese mocha ofe kapa ofe URL ka hare ho M3U ha e qale ka \"http\", E hlahlobe e le lenane la boleng le arotsoeng ka likhoma bakeng sa ho kenya sebakeng sena URL Sehlooho.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

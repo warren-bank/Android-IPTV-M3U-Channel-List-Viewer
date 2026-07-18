@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Séetaan-kat</string>
-    <string name="action_exit">Génn</string>
     <string name="action_open_m3u_url">Ubbi M3U Limu woy yi URL</string>
     <string name="action_open_m3u_file">Ubbi M3U Dosiye playlist</string>
     <string name="action_search">Seet</string>
     <string name="action_sort_sequential">Tànnal ci toppante</string>
-    <string name="action_sort_alphabetic">Tànnal ci araf</string>
+    <string name="action_sort_alphabetic">Tànnal ci alfabé</string>
+    <string name="action_settings">Tànneef yi</string>
+    <string name="action_exit">Génn</string>
     <string name="button_open">Ubbi</string>
     <string name="button_cancel">Dindi</string>
     <string name="dialog_open_m3u_url_title">Duggal URL</string>
     <string name="toast_error_no_app_found">Amul benn aplikasioŋ video buñu gis</string>
+  <string name="pref_default_m3u_url_title">Li ñu tëral M3U Limu woy yi URL</string>
+  <string name="pref_default_m3u_url_summary">Njëlbéenu njëg ci biir \"Ubbi M3U Limu woy yi URL\" Waxtaan.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Sànnukaay URL Royukaay</string>
+  <string name="pref_channel_url_template_summary">Bu benn dal bu nekk URL ci biir M3U Tàmbaliwul ak \"http\", Jàng ko ni limu ay tolluwaay yu ñu séddale ak virgu, ngir wuutu ci bii. URL Royukaay.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

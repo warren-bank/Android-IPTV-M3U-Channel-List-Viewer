@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Uñjiri</string>
-    <string name="action_exit">Mistuña</string>
     <string name="action_open_m3u_url">Justaraña M3U Jayllinaka URL</string>
     <string name="action_open_m3u_file">Justaraña M3U Jayllinaka Qillqata</string>
-    <string name="action_search">Thaqhaña</string>
+    <string name="action_search">Thaqaña</string>
     <string name="action_sort_sequential">Qhipa qhipata askichaña</string>
     <string name="action_sort_alphabetic">Qillqa tuqirjam t\'aqaña</string>
+    <string name="action_settings">Wakichäwinaka</string>
+    <string name="action_exit">Mistuña</string>
     <string name="button_open">Justaraña</string>
     <string name="button_cancel">Q\'al chhaqtayaña</string>
     <string name="dialog_open_m3u_url_title">Mantaña URL</string>
     <string name="toast_error_no_app_found">Janiw video uñacht\'ayiri aplicación jikxatatakiti</string>
+  <string name="pref_default_m3u_url_title">Nayraqat utt\'ayata M3U Jayllinaka URL</string>
+  <string name="pref_default_m3u_url_summary">Qallta chani \"Justaraña M3U Jayllinaka URL\" Aruskipäwi.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Thakhi URL Uñanchäwi</string>
+  <string name="pref_channel_url_template_summary">Kuna yatiyäwi thakisa URL manqhana M3U janiw qalltkiti \"http\", Uka ch\'aqa ch\'aqampi jaljata valoranaka uñt\'ayasa, akaru qillqantañataki. URL Uñanchawi.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

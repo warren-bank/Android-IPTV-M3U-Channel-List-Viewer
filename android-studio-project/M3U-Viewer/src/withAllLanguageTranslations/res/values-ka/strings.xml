@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">M3U მაყურებელი</string>
-    <string name="action_exit">გამოსვლა</string>
-    <string name="action_open_m3u_url">გახსნილი M3U პლეისლიsti URL</string>
+    <string name="app_name">M3U მნახველი</string>
+    <string name="action_open_m3u_url">გახსნილი M3U სათამაშო სია URL</string>
     <string name="action_open_m3u_file">გახსნილი M3U პლეილისტის ფაილი</string>
     <string name="action_search">ძიება</string>
     <string name="action_sort_sequential">დალაგება თანმიმდევრობით</string>
     <string name="action_sort_alphabetic">დალაგება ანბანის მიხედვით</string>
+    <string name="action_settings">პარამეტრები</string>
+    <string name="action_exit">გამოსვლა</string>
     <string name="button_open">გახსნილი</string>
     <string name="button_cancel">გაუქმება</string>
     <string name="dialog_open_m3u_url_title">შეიყვანეთ URL</string>
-    <string name="toast_error_no_app_found">ვიდეო დამკვრელის აპლიკაცია ვერ მოიძებნა</string>
+    <string name="toast_error_no_app_found">ვიდეო პლეერის აპლიკაცია ვერ მოიძებნა</string>
+  <string name="pref_default_m3u_url_title">ნაგულისხმევი M3U სათამაშო სია URL</string>
+  <string name="pref_default_m3u_url_summary">საწყისი ღირებულება \"გახსნილი M3U სათამაშო სია URL\" დიალოგი.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">არხი URL შაბლონი</string>
+  <string name="pref_channel_url_template_summary">როდესაც ნებისმიერი არხი URL ში M3U არ იწყება \"http\", გაანალიზეთ, როგორც მძიმით გამოყოფილი მნიშვნელობების სია ამაში ჩასანაცვლებლად URL შაბლონი.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

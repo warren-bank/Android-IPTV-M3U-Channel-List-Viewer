@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Ohecháva</string>
-    <string name="action_exit">Jesẽ</string>
     <string name="action_open_m3u_url">Ojepe\'a M3U Purahéi aty URL</string>
-    <string name="action_open_m3u_file">Ojepe\'a M3U Purahéi Rysýi Rembiapo</string>
-    <string name="action_search">He\'i</string>
-    <string name="action_sort_sequential">Emohenda joapykuéri</string>
+    <string name="action_open_m3u_file">Ojepe\'a M3U Purahéi Rysýi Kuatiarogue</string>
+    <string name="action_search">He\'a</string>
+    <string name="action_sort_sequential">Emohenda peteĩ rire ambue</string>
     <string name="action_sort_alphabetic">Emohenda tai rupive</string>
+    <string name="action_settings">Mbohekorã</string>
+    <string name="action_exit">Sẽ</string>
     <string name="button_open">Ojepe\'a</string>
-    <string name="button_cancel">Mboje\'a</string>
+    <string name="button_cancel">Embogue</string>
     <string name="dialog_open_m3u_url_title">Eike URL</string>
-    <string name="toast_error_no_app_found">Ndojejuhúi app video ohechaukáva</string>
+    <string name="toast_error_no_app_found">Ndojetopái video ohechaukáva app.</string>
+  <string name="pref_default_m3u_url_title">Ojehechaháichaite M3U Purahéi aty URL</string>
+  <string name="pref_default_m3u_url_summary">Mbohepy ñepyrũrã \"Ojepe\'a M3U Purahéi aty URL\" Ñomongeta.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Mbohasaha URL Techaukarã</string>
+  <string name="pref_channel_url_template_summary">Oimeraẽva canal-pe URL pe M3U ndoñepyrũi \"http\", Oñembohasa chupe peteĩ tysýi oñemboja\'óva kómagui, henyhẽva mba\'e oñemoĩva\'erãgui ko\'ápe. URL Techaukarã.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Mtazamaji</string>
-    <string name="action_exit">Toka</string>
     <string name="action_open_m3u_url">Fungua M3U Orodha ya nyimbo URL</string>
-    <string name="action_open_m3u_file">Fungua M3U Faili la orodha ya nyimbo</string>
+    <string name="action_open_m3u_file">Fungua M3U Faili ya orodha ya nyimbo</string>
     <string name="action_search">Tafuta</string>
     <string name="action_sort_sequential">Panga kwa mfuatano</string>
     <string name="action_sort_alphabetic">Panga kwa herufi</string>
+    <string name="action_settings">Mipangilio</string>
+    <string name="action_exit">Toka</string>
     <string name="button_open">Fungua</string>
     <string name="button_cancel">Futa</string>
     <string name="dialog_open_m3u_url_title">Ingia URL</string>
     <string name="toast_error_no_app_found">Hakuna programu ya kucheza video iliyopatikana</string>
+  <string name="pref_default_m3u_url_title">Kawaida M3U Orodha ya nyimbo URL</string>
+  <string name="pref_default_m3u_url_summary">Thamani ya awali katika \"Fungua M3U Orodha ya nyimbo URL\" mazungumzo.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanal URL Kiolezo</string>
+  <string name="pref_channel_url_template_summary">Wakati kituo chochote URL katika M3U haianzi na \"http\", itambue kama orodha ya thamani zilizotenganishwa kwa koma kwa ajili ya kubadilisha ndani ya hii URL Kiolezo.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

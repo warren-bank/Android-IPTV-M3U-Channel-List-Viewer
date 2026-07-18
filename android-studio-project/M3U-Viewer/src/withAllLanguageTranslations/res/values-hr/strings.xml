@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Gledatelj</string>
-    <string name="action_exit">Izlaz</string>
     <string name="action_open_m3u_url">Otvoreno M3U Playlist URL</string>
     <string name="action_open_m3u_file">Otvoreno M3U Datoteka s popisom pjesama</string>
     <string name="action_search">Pretraži</string>
     <string name="action_sort_sequential">Sortiraj po redu</string>
     <string name="action_sort_alphabetic">Sortiraj abecednim redom</string>
+    <string name="action_settings">Postavke</string>
+    <string name="action_exit">Izlaz</string>
     <string name="button_open">Otvoreno</string>
     <string name="button_cancel">Otkaži</string>
     <string name="dialog_open_m3u_url_title">Uđi URL</string>
     <string name="toast_error_no_app_found">Nije pronađena nijedna aplikacija za reprodukciju videa</string>
+  <string name="pref_default_m3u_url_title">Zadano M3U Playlist URL</string>
+  <string name="pref_default_m3u_url_summary">Početna vrijednost u \"Otvoreno M3U Playlist URL\" dijalog.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanal URL Predložak</string>
+  <string name="pref_channel_url_template_summary">Kada god bilo koji kanal URL u M3U ne počinje s \"http\", parsirati ga kao popis vrijednosti odvojene zarezom za zamjenu u ovo URL šablona.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

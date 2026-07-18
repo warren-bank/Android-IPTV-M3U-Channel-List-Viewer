@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Umbonisi</string>
-    <string name="action_exit">Phuma</string>
     <string name="action_open_m3u_url">Vula M3U Uhlu lokudlalwayo URL</string>
     <string name="action_open_m3u_file">Vula M3U Ifayela yohlelo lwamaculo</string>
     <string name="action_search">Funa</string>
     <string name="action_sort_sequential">Hlela ngokulandelana</string>
     <string name="action_sort_alphabetic">Hlela ngokulandelana kwezinhlamvu</string>
+    <string name="action_settings">Izilungiselelo</string>
+    <string name="action_exit">Phuma</string>
     <string name="button_open">Vula</string>
     <string name="button_cancel">Khansela</string>
     <string name="dialog_open_m3u_url_title">Ngena URL</string>
     <string name="toast_error_no_app_found">Akutholakali uhlelo lokudlala ividiyo</string>
+  <string name="pref_default_m3u_url_title">Okujwayelekile M3U Uhlu lokudlalwayo URL</string>
+  <string name="pref_default_m3u_url_summary">Inani lokuqala ku \"Vula M3U Uhlu lokudlalwayo URL\" inkulumo.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Isiteshi URL Isifanekiso</string>
+  <string name="pref_channel_url_template_summary">Noma yisiphi isiteshi URL ngaphakathi kwe M3U ayisiqali ngo \"http\", ukuhumusha njengohlu lwezinto ezihlukaniswe ngamakhoma ukuze zifakwe lapha URL isifanekiso.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Motali</string>
-    <string name="action_exit">Bima</string>
     <string name="action_open_m3u_url">Fungola M3U Liste ya nzembo URL</string>
     <string name="action_open_m3u_file">Fungola M3U Fisyé ya liste ya miziki</string>
     <string name="action_search">Luka</string>
     <string name="action_sort_sequential">Tondisa na molongo</string>
     <string name="action_sort_alphabetic">Tondisa na molongo ya alfabɛ</string>
+    <string name="action_settings">Bopɛngami</string>
+    <string name="action_exit">Bima</string>
     <string name="button_open">Fungola</string>
     <string name="button_cancel">Kata</string>
     <string name="dialog_open_m3u_url_title">Kɔ́tá URL</string>
     <string name="toast_error_no_app_found">Application ya kotala ba video emonani te</string>
+  <string name="pref_default_m3u_url_title">Ndenge ezali M3U Liste ya nzembo URL</string>
+  <string name="pref_default_m3u_url_summary">Motuya ya liboso na \"Fungola M3U Liste ya nzembo URL\" Lisolo.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Nzela URL Modèle</string>
+  <string name="pref_channel_url_template_summary">Ntango chaîne nyonso URL na kati ya M3U ebandaka na te \"http\", Kábola yango lokola liste ya ba valeurs oyo ekabwani na virgule mpo na kotya na esika na kati ya oyo. URL ndakisa.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

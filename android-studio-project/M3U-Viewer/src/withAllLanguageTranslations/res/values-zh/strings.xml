@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U 查看器</string>
-    <string name="action_exit">退出</string>
     <string name="action_open_m3u_url">打开 M3U 播放列表 URL</string>
     <string name="action_open_m3u_file">打开 M3U 播放列表文件</string>
     <string name="action_search">搜索</string>
     <string name="action_sort_sequential">按顺序排序</string>
     <string name="action_sort_alphabetic">按字母顺序排序</string>
+    <string name="action_settings">设置</string>
+    <string name="action_exit">退出</string>
     <string name="button_open">打开</string>
     <string name="button_cancel">取消</string>
     <string name="dialog_open_m3u_url_title">输入 URL</string>
     <string name="toast_error_no_app_found">未找到视频播放器应用</string>
+  <string name="pref_default_m3u_url_title">默认 M3U 播放列表 URL</string>
+  <string name="pref_default_m3u_url_summary">初始值在 \"打开 M3U 播放列表 URL\" 对话框.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">频道 URL 模板</string>
+  <string name="pref_channel_url_template_summary">当任何频道 URL 在 M3U 不以……开头 \"http\", 将其解析为以逗号分隔的值列表，以便替换到此处 URL 模板.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

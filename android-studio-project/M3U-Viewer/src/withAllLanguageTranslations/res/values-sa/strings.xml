@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U दर्शकः</string>
-    <string name="action_exit">निर्गमनम्</string>
     <string name="action_open_m3u_url">उद्घाटय M3U गीतसूची URL</string>
     <string name="action_open_m3u_file">उद्घाटय M3U गीतसूचीपत्रकम्</string>
     <string name="action_search">अन्वेषणम्</string>
-    <string name="action_sort_sequential">क्रमबद्धं वर्गीकुरु</string>
+    <string name="action_sort_sequential">क्रमबद्धतया विविन्यतु</string>
     <string name="action_sort_alphabetic">वर्णक्रमेण विविन्यतु</string>
+    <string name="action_settings">विन्यासाः</string>
+    <string name="action_exit">निर्गमनम्</string>
     <string name="button_open">उद्घाटय</string>
     <string name="button_cancel">रद्दीकरणम्</string>
     <string name="dialog_open_m3u_url_title">प्रवेशयतु URL</string>
-    <string name="toast_error_no_app_found">कोऽपि चलच्चित्रदर्शक अनुप्रयोगः न लभ्यते।</string>
+    <string name="toast_error_no_app_found">कोऽपि चलच्चित्रदर्शक अनुप्रयोगः न प्राप्तः।</string>
+  <string name="pref_default_m3u_url_title">पूर्वनिर्धारितम् M3U गीतसूची URL</string>
+  <string name="pref_default_m3u_url_summary">प्रारम्भिक मानः अन्तर् \"उद्घाटय M3U गीतसूची URL\" संवादः.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">मार्गः URL आदर्शरूपम्</string>
+  <string name="pref_channel_url_template_summary">यदा कश्चन च्यानलः URL अन्तर्गत M3U न आरभ्यते \"http\", एतस्मिन् प्रतिस्थापनार्थं अल्पविरामविभक्तमूल्यसूचि इव विवेचय। URL आदर्शरूपम्.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U દર્શક</string>
-    <string name="action_exit">બહાર નીકળો</string>
-    <string name="action_open_m3u_url">ખોલો M3U પ્લેલિસ્ટ URL</string>
-    <string name="action_open_m3u_file">ખોલો M3U પ્લેલિસ્ટ ફાઇલ</string>
+    <string name="action_open_m3u_url">ખુલ્લું M3U પ્લેલિસ્ટ URL</string>
+    <string name="action_open_m3u_file">ખુલ્લું M3U પ્લેલિસ્ટ ફાઇલ</string>
     <string name="action_search">શોધો</string>
     <string name="action_sort_sequential">ક્રમાનુસાર ગોઠવો</string>
     <string name="action_sort_alphabetic">વર્ણક્રમ પ્રમાણે ગોઠવો</string>
-    <string name="button_open">ખોલો</string>
+    <string name="action_settings">સેટિંગ્સ</string>
+    <string name="action_exit">બહાર નીકળો</string>
+    <string name="button_open">ખુલ્લું</string>
     <string name="button_cancel">રદ કરો</string>
     <string name="dialog_open_m3u_url_title">પ્રવેશો URL</string>
     <string name="toast_error_no_app_found">કોઈ ਵੀડિયો પ્લેયર એપ મળી નથી</string>
+  <string name="pref_default_m3u_url_title">નિર્ધારિત M3U પ્લેલિસ્ટ URL</string>
+  <string name="pref_default_m3u_url_summary">પ્રારંભિક મૂલ્ય \"ખુલ્લું M3U પ્લેલિસ્ટ URL\" સંવાદ.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">માધ્યમ URL નમૂનો</string>
+  <string name="pref_channel_url_template_summary">જ્યારે કોઈપણ ચેનલ URL માં M3U થી શરૂ થતું નથી \"http\", તેને આમાં બદલવા માટે કોમાથી વિભાજિત મૂલ્યોની સૂચિ તરીકે પાર્સ કરો URL નમૂનો.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

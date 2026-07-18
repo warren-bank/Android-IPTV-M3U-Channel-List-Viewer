@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">M3U Göriji</string>
-    <string name="action_exit">Çykmak</string>
+    <string name="app_name">M3U Görüjisi</string>
     <string name="action_open_m3u_url">Açyk M3U Aýdymlar sanawy URL</string>
     <string name="action_open_m3u_file">Açyk M3U Pleylist faýly</string>
-    <string name="action_search">Gözläň</string>
+    <string name="action_search">Gözleg</string>
     <string name="action_sort_sequential">Yzly-yzyna tertipleşdirmek</string>
     <string name="action_sort_alphabetic">Alfawit tertibine görä tertipleşdirmek</string>
+    <string name="action_settings">Täze sazlamalar</string>
+    <string name="action_exit">Çykmak</string>
     <string name="button_open">Açyk</string>
-    <string name="button_cancel">Bygatlamak</string>
+    <string name="button_cancel">Bygzamak</string>
     <string name="dialog_open_m3u_url_title">Girmek URL</string>
     <string name="toast_error_no_app_found">Wideo pleýer programmasy tapylmady</string>
+  <string name="pref_default_m3u_url_title">Öňünden kesgitlenen M3U Aýdymlar sanawy URL</string>
+  <string name="pref_default_m3u_url_summary">Başlangyç gymmaty \"Açyk M3U Aýdymlar sanawy URL\" dialog.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanal URL Şablon</string>
+  <string name="pref_channel_url_template_summary">Haçan-da islendik kanal URL de M3U bilen başlamak \"http\", Ony bu ýere çalyşmak üçin tire bilen bölünip ýerleşdirilen gymmatlar sanawy hökmünde seljer URL şablon.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

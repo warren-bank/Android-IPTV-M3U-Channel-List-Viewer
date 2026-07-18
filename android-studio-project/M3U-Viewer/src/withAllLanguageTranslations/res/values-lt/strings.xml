@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Peržiūros programa</string>
-    <string name="action_exit">Išeiti</string>
     <string name="action_open_m3u_url">Atidaryti M3U Grojaraštis URL</string>
     <string name="action_open_m3u_file">Atidaryti M3U Grojaraščio failas</string>
     <string name="action_search">Paieška</string>
     <string name="action_sort_sequential">Rūšiuoti eilės tvarka</string>
     <string name="action_sort_alphabetic">Rūšiuoti abėcėlės tvarka</string>
+    <string name="action_settings">Nustatymai</string>
+    <string name="action_exit">Išeiti</string>
     <string name="button_open">Atidaryti</string>
     <string name="button_cancel">Atšaukti</string>
     <string name="dialog_open_m3u_url_title">Įvesti URL</string>
     <string name="toast_error_no_app_found">Nerasta vaizdo grotuvo programėlės</string>
+  <string name="pref_default_m3u_url_title">Numatytasis M3U Grojaraštis URL</string>
+  <string name="pref_default_m3u_url_summary">Pradinė vertė \"Atidaryti M3U Grojaraštis URL\" dialogas.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanalas URL Šablonas</string>
+  <string name="pref_channel_url_template_summary">Kai bet kuris kanalas URL į M3U neprasideda žodžiu \"http\", išanalizuokite jį kaip kableliais atskirtą verčių sąrašą, kad būtų galima įterpti į šį URL šablonas.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

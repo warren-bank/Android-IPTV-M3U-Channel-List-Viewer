@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">M3U Зрител</string>
-    <string name="action_exit">Изход</string>
+    <string name="app_name">M3U Програма за гледане</string>
     <string name="action_open_m3u_url">Отвори M3U Плейлист URL</string>
     <string name="action_open_m3u_file">Отвори M3U Файл с плейлист</string>
     <string name="action_search">Търсене</string>
-    <string name="action_sort_sequential">Сортиране поредно</string>
+    <string name="action_sort_sequential">Подреждане поредно</string>
     <string name="action_sort_alphabetic">Сортиране по азбучен ред</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_exit">Изход</string>
     <string name="button_open">Отвори</string>
     <string name="button_cancel">Отмяна</string>
     <string name="dialog_open_m3u_url_title">Въведете URL</string>
     <string name="toast_error_no_app_found">Не беше намерено приложение за възпроизвеждане на видео</string>
+  <string name="pref_default_m3u_url_title">По подразбиране M3U Плейлист URL</string>
+  <string name="pref_default_m3u_url_summary">Начална стойност в \"Отвори M3U Плейлист URL\" диалог.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Канал URL Шаблон</string>
+  <string name="pref_channel_url_template_summary">Когато някой канал URL в M3U не започва с \"http\", да го анализира като списък от стойности, разделени със запетая, за заместване в това URL шаблон.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

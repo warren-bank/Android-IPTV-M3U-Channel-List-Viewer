@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U ကြည့်ရှုသူ</string>
-    <string name="action_exit">ထွက်ရန်</string>
     <string name="action_open_m3u_url">ဖွင့် M3U ကစားစာရင်း URL</string>
-    <string name="action_open_m3u_file">ဖွင့် M3U ကစားစာရင်း ဖိုင်</string>
+    <string name="action_open_m3u_file">ဖွင့် M3U ပလေယာစာရင်း ဖိုင်</string>
     <string name="action_search">ရှာဖွေ</string>
     <string name="action_sort_sequential">အဆင့်လိုက် စီရန်</string>
     <string name="action_sort_alphabetic">အက္ခရာအလိုက် စီရန်</string>
+    <string name="action_settings">ဆက်တင်များ</string>
+    <string name="action_exit">ထွက်ရန်</string>
     <string name="button_open">ဖွင့်</string>
     <string name="button_cancel">ဖျက်ရန်</string>
-    <string name="dialog_open_m3u_url_title">ထည့်ပါ URL</string>
-    <string name="toast_error_no_app_found">ဗီဒီယိုဖွင့်ပလေယာအက်ပ် မတွေ့ပါ။</string>
+    <string name="dialog_open_m3u_url_title">ဝင်ပါ URL</string>
+    <string name="toast_error_no_app_found">ဗီဒီယိုဖွင့်ပရိုဂရမ် မတွေ့ပါ။</string>
+  <string name="pref_default_m3u_url_title">မူလတန်ဖိုး M3U ကစားစာရင်း URL</string>
+  <string name="pref_default_m3u_url_summary">အစပိုင်းတန်ဖိုးကို ထည့်ပါ \"ဖွင့် M3U ကစားစာရင်း URL\" ဆွေးနွေးချက်.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">ချန်နယ် URL နမူနာ</string>
+  <string name="pref_channel_url_template_summary">မည်သည့်ချန်နယ်မဆို URL အတွင်း M3U ဖြင့် မစတင်ပါ \"http\", ဤထဲသို့ အစားထိုးထည့်ရန် ကော်မာဖြင့် ခွဲထားသော တန်ဖိုးများ စာရင်းအဖြစ် ခွဲခြမ်းစိတ်ဖြာပါ။ URL နမူနာ.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

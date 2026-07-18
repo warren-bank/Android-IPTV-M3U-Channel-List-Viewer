@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U کتونکی</string>
-    <string name="action_exit">وتل</string>
     <string name="action_open_m3u_url">پرانیستل M3U د سندرو لړلیک URL</string>
-    <string name="action_open_m3u_file">پرانیستل M3U د غږولو لیست فایل</string>
+    <string name="action_open_m3u_file">پرانیستل M3U د غږیزو فایلونو لړلیک</string>
     <string name="action_search">لټون</string>
     <string name="action_sort_sequential">په ترتیب سره ترتیب کړئ</string>
     <string name="action_sort_alphabetic">د الفبا له مخې ترتیب کړئ</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="action_exit">وتل</string>
     <string name="button_open">پرانیستل</string>
     <string name="button_cancel">لغوه کړئ</string>
     <string name="dialog_open_m3u_url_title">ننوځئ URL</string>
     <string name="toast_error_no_app_found">د ویډیو پلیر اپلیکیشن وموندل شو</string>
+  <string name="pref_default_m3u_url_title">اصلي M3U د سندرو لړلیک URL</string>
+  <string name="pref_default_m3u_url_summary">په ... کې لومړنی ارزښت \"پرانیستل M3U د سندرو لړلیک URL\" خبرې اترې.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">چینل URL قالب</string>
+  <string name="pref_channel_url_template_summary">کله چې کوم چینل URL په M3U په ... نه پیل کیږي \"http\", دا په دې کې د بدلولو لپاره د کامې په واسطه جلا شوي ارزښتونو د یو لیست په توګه تجزیه کړئ. URL قالب.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

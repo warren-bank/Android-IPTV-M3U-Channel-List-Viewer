@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U दर्शक</string>
-    <string name="action_exit">बाहिर निस्कनुहोस्</string>
-    <string name="action_open_m3u_url">खोल M3U प्लेलिस्ट URL</string>
-    <string name="action_open_m3u_file">खोल M3U प्लेलिस्ट फाइल</string>
+    <string name="action_open_m3u_url">खोलिएको M3U प्लेलिस्ट URL</string>
+    <string name="action_open_m3u_file">खोलिएको M3U प्लेलिस्ट फाइल</string>
     <string name="action_search">खोज्नुहोस्</string>
     <string name="action_sort_sequential">क्रमबद्ध रूपमा क्रमबद्ध गर्नुहोस्</string>
     <string name="action_sort_alphabetic">अक्षरात्मक क्रममा छान्नुहोस्</string>
-    <string name="button_open">खोल</string>
+    <string name="action_settings">सेटिङहरू</string>
+    <string name="action_exit">बाहिर निस्कनुहोस्</string>
+    <string name="button_open">खोलिएको</string>
     <string name="button_cancel">रद्द गर्नुहोस्</string>
     <string name="dialog_open_m3u_url_title">प्रवेश गर्नुहोस् URL</string>
     <string name="toast_error_no_app_found">भिडियो प्लेयर एप भेटिएन</string>
+  <string name="pref_default_m3u_url_title">पूर्वनिर्धारित M3U प्लेलिस्ट URL</string>
+  <string name="pref_default_m3u_url_summary">प्रारम्भिक मान \"खोलिएको M3U प्लेलिस्ट URL\" संवाद.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">च्यानल URL नमूना</string>
+  <string name="pref_channel_url_template_summary">जब कुनै पनि च्यानल URL मा M3U बाट सुरु हुँदैन \"http\", यसमा प्रतिस्थापनका लागि यसलाई अल्पविरामले छुट्याइएको मानहरूको सूचीको रूपमा पार्स गर्नुहोस्। URL नमूना.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

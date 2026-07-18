@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U दर्शक</string>
-    <string name="action_exit">निकास</string>
     <string name="action_open_m3u_url">खोलें M3U प्लेलिस्ट URL</string>
     <string name="action_open_m3u_file">खोलें M3U प्लेलिस्ट फ़ाइल</string>
     <string name="action_search">खोजें</string>
     <string name="action_sort_sequential">क्रमबद्ध करें</string>
     <string name="action_sort_alphabetic">वर्णानुक्रम से क्रमबद्ध करें</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="action_exit">निकास</string>
     <string name="button_open">खोलें</string>
     <string name="button_cancel">रद्द करें</string>
     <string name="dialog_open_m3u_url_title">प्रवेश करें URL</string>
     <string name="toast_error_no_app_found">कोई वीडियो प्लेयर ऐप नहीं मिला</string>
+  <string name="pref_default_m3u_url_title">डिफ़ॉल्ट M3U प्लेलिस्ट URL</string>
+  <string name="pref_default_m3u_url_summary">में प्रारंभिक मान \"खोलें M3U प्लेलिस्ट URL\" संवाद.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">चैनल URL नमूना</string>
+  <string name="pref_channel_url_template_summary">जब कोई भी चैनल URL में M3U से शुरू नहीं होता \"http\", इसे इस में प्रतिस्थापन के लिए अल्पविराम-से-विभाजित मानों की सूची के रूप में पार्स करें। URL नमूना.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Көрүүчү</string>
-    <string name="action_exit">Чыгуу</string>
     <string name="action_open_m3u_url">Ачык M3U Плейлист URL</string>
     <string name="action_open_m3u_file">Ачык M3U Плейлист файлы</string>
     <string name="action_search">Издөө</string>
     <string name="action_sort_sequential">Катмар-катар сорттоо</string>
     <string name="action_sort_alphabetic">Алифвеоиддуу сорттоо</string>
+    <string name="action_settings">Жөндөөлөр</string>
+    <string name="action_exit">Чыгуу</string>
     <string name="button_open">Ачык</string>
-    <string name="button_cancel">Жокко чыгаруу</string>
+    <string name="button_cancel">Жоюу</string>
     <string name="dialog_open_m3u_url_title">Кирүү URL</string>
     <string name="toast_error_no_app_found">Видео ойноткуч тиркеме табылган жок</string>
+  <string name="pref_default_m3u_url_title">Алгачкы M3U Плейлист URL</string>
+  <string name="pref_default_m3u_url_summary">Киришүүчү баалуулук \"Ачык M3U Плейлист URL\" диалог.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Канал URL Шаблон</string>
+  <string name="pref_channel_url_template_summary">Кайсы гана канал URL ичинде M3U башталбайт \"http\", Муну бул жерге орнотуу үчүн үтүк менен ажыратылган маанилер тизмеси катары талдаңыз URL шаблон.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

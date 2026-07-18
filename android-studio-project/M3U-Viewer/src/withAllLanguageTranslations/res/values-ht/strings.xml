@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Gadò</string>
-    <string name="action_exit">Sòti</string>
     <string name="action_open_m3u_url">Ouvè M3U Lis mizik URL</string>
     <string name="action_open_m3u_file">Ouvè M3U Fichye lis mizik</string>
     <string name="action_search">Chèche</string>
-    <string name="action_sort_sequential">Triye nan lòd</string>
-    <string name="action_sort_alphabetic">Klase pa lòd alfabetik</string>
+    <string name="action_sort_sequential">Triye youn apre lòt</string>
+    <string name="action_sort_alphabetic">Klase pa alfabè</string>
+    <string name="action_settings">Aranjman</string>
+    <string name="action_exit">Sòti</string>
     <string name="button_open">Ouvè</string>
     <string name="button_cancel">Anile</string>
     <string name="dialog_open_m3u_url_title">Antre URL</string>
     <string name="toast_error_no_app_found">Pa jwenn okenn aplikasyon pou jwe videyo.</string>
+  <string name="pref_default_m3u_url_title">Pa defo M3U Lis mizik URL</string>
+  <string name="pref_default_m3u_url_summary">Valè inisyal an \"Ouvè M3U Lis mizik URL\" Dyalòg.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Chèn URL Modèl</string>
+  <string name="pref_channel_url_template_summary">Lè nenpòt chanèl URL nan M3U pa kòmanse ak \"http\", Analize l kòm yon lis valè separe pa virg, pou ranplasman nan sa a. URL modèl.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

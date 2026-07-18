@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Penonton</string>
-    <string name="action_exit">Keluar</string>
     <string name="action_open_m3u_url">Terima M3U Senarai main URL</string>
     <string name="action_open_m3u_file">Terima M3U Fail Senarai Main</string>
     <string name="action_search">Cari</string>
     <string name="action_sort_sequential">Susun Secara Berurutan</string>
     <string name="action_sort_alphabetic">Susun mengikut abjad</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="action_exit">Keluar</string>
     <string name="button_open">Terima</string>
     <string name="button_cancel">Batal</string>
     <string name="dialog_open_m3u_url_title">Masuk URL</string>
     <string name="toast_error_no_app_found">Tiada aplikasi pemain video ditemui</string>
+  <string name="pref_default_m3u_url_title">Tetapan lalai M3U Senarai main URL</string>
+  <string name="pref_default_m3u_url_summary">Nilai awal dalam \"Terima M3U Senarai main URL\" dialog.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Saluran URL Templat</string>
+  <string name="pref_channel_url_template_summary">Apabila mana-mana saluran URL dalam M3U tidak bermula dengan \"http\", parse ia sebagai senarai nilai yang dipisahkan oleh koma untuk penggantian ke dalam ini URL sempulan.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

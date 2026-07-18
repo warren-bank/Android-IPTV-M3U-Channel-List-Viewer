@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U കാഴ്ചക്കാരൻ</string>
-    <string name="action_exit">പുറത്തുകടക്കുക</string>
     <string name="action_open_m3u_url">തുറക്കുക M3U പ്ലേലിസ്റ്റ് URL</string>
     <string name="action_open_m3u_file">തുറക്കുക M3U പ്ലേലിസ്റ്റ് ഫയൽ</string>
     <string name="action_search">തിരയുക</string>
     <string name="action_sort_sequential">ക്രമീകരിക്കുക</string>
     <string name="action_sort_alphabetic">അക്ഷരമാലാക്രമത്തിൽ ചിട്ടപ്പെടുത്തുക</string>
+    <string name="action_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="action_exit">പുറത്തുകടക്കുക</string>
     <string name="button_open">തുറക്കുക</string>
     <string name="button_cancel">റദ്ദാക്കുക</string>
     <string name="dialog_open_m3u_url_title">പ്രവേശിക്കുക URL</string>
     <string name="toast_error_no_app_found">വീഡിയോ പ്ലെയർ ആപ്പ് കണ്ടെത്തിയില്ല</string>
+  <string name="pref_default_m3u_url_title">നിലവിലുള്ള M3U പ്ലേലിസ്റ്റ് URL</string>
+  <string name="pref_default_m3u_url_summary">പ്രാരംഭ മൂല്യം \"തുറക്കുക M3U പ്ലേലിസ്റ്റ് URL\" സംഭാഷണം.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">ചാനൽ URL മാതൃക</string>
+  <string name="pref_channel_url_template_summary">ഏതെങ്കിലും ചാനൽ URL അതിൽ M3U ആരംഭിക്കുന്നില്ല \"http\", ഇതിലേക്ക് പകരം വെക്കുന്നതിനുള്ള കോമയാൽ വേർതിരിച്ച മൂല്യങ്ങളുടെ ഒരു ലിസ്റ്റായി ഇത് വിശകലനം ചെയ്യുക URL മാതൃക.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

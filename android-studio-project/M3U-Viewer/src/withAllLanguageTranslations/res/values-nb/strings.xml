@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Seer</string>
-    <string name="action_exit">Avslutt</string>
     <string name="action_open_m3u_url">Åpne M3U Spilleliste URL</string>
     <string name="action_open_m3u_file">Åpne M3U Spillelistefil</string>
     <string name="action_search">Søk</string>
     <string name="action_sort_sequential">Sorter i rekkefølge</string>
     <string name="action_sort_alphabetic">Sorter alfabetisk</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="action_exit">Avslutt</string>
     <string name="button_open">Åpne</string>
     <string name="button_cancel">Avbryt</string>
     <string name="dialog_open_m3u_url_title">Trykk Enter URL</string>
     <string name="toast_error_no_app_found">Det ble ikke funnet noen videospiller-app</string>
+  <string name="pref_default_m3u_url_title">Standard M3U Spilleliste URL</string>
+  <string name="pref_default_m3u_url_summary">Startverdi i \"Åpne M3U Spilleliste URL\" dialog.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanal URL Mal</string>
+  <string name="pref_channel_url_template_summary">Når en hvilken som helst kanal URL i M3U begynner ikke med \"http\", tolke det som en kommaseparert liste med verdier som skal settes inn her URL mal.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

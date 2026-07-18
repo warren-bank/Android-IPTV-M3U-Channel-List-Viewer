@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Դիտող</string>
-    <string name="action_exit">Ելք</string>
     <string name="action_open_m3u_url">Բաց M3U Ցուցակ URL</string>
     <string name="action_open_m3u_file">Բաց M3U Պլեյլիստի ֆայլ</string>
     <string name="action_search">Փնտրել</string>
-    <string name="action_sort_sequential">Հերթական դասավորել</string>
+    <string name="action_sort_sequential">Հերթականությամբ դասավորել</string>
     <string name="action_sort_alphabetic">Ալֆավիտային կարգավորել</string>
+    <string name="action_settings">Կարգավորումներ</string>
+    <string name="action_exit">Ելք</string>
     <string name="button_open">Բաց</string>
     <string name="button_cancel">Չեղարկել</string>
     <string name="dialog_open_m3u_url_title">Մուտք գործել URL</string>
     <string name="toast_error_no_app_found">Տեսանյութերի նվագարկիչ հավելված չի գտնվել</string>
+  <string name="pref_default_m3u_url_title">Ստանդարտ M3U Ցուցակ URL</string>
+  <string name="pref_default_m3u_url_summary">Սկզբնական արժեքը ներսում \"Բաց M3U Ցուցակ URL\" զրույց.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Ալիք URL Նմուշ</string>
+  <string name="pref_channel_url_template_summary">Երբ որևէ ալիք URL մեջ M3U չի սկսվում \"http\", Դա վերծեք որպես ստորակետերով բաժանված արժեքների ցուցակ՝ այս մեջ փոխարինելու համար։ URL տիպային ձևանմուշ.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

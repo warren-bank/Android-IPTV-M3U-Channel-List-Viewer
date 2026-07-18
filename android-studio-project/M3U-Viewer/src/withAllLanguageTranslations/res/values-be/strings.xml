@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Гледач</string>
-    <string name="action_exit">Выхад</string>
     <string name="action_open_m3u_url">Адкрыць M3U Плэйліст URL</string>
     <string name="action_open_m3u_file">Адкрыць M3U Файл плэйліста</string>
     <string name="action_search">Пошук</string>
     <string name="action_sort_sequential">Сартаваць па парадку</string>
     <string name="action_sort_alphabetic">Сартаваць па алфавіце</string>
+    <string name="action_settings">Налады</string>
+    <string name="action_exit">Выхад</string>
     <string name="button_open">Адкрыць</string>
     <string name="button_cancel">Скасаваць</string>
     <string name="dialog_open_m3u_url_title">Увайсці URL</string>
     <string name="toast_error_no_app_found">Не знойдзена ніводнага відэаплэера</string>
+  <string name="pref_default_m3u_url_title">Па змаўчанні M3U Плэйліст URL</string>
+  <string name="pref_default_m3u_url_summary">Пачатковае значэнне ў \"Адкрыць M3U Плэйліст URL\" дыялог.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Кanaл URL Шаблон</string>
+  <string name="pref_channel_url_template_summary">Калі любы канал URL у M3U не пачынаецца з \"http\", абпрацаваць як спіс значэнняў, аддзеленых коскамі, для падстаўкі ў гэта URL шаблон.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

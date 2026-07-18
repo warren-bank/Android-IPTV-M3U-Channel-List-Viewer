@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U צוקוקער</string>
-    <string name="action_exit">אויסגאַנג</string>
     <string name="action_open_m3u_url">עפֿענען M3U שפּיל־ליסטע URL</string>
     <string name="action_open_m3u_file">עפֿענען M3U פּלייַליסט־טעקע</string>
     <string name="action_search">זוכן</string>
     <string name="action_sort_sequential">סאָרטירן נאָך סדר</string>
     <string name="action_sort_alphabetic">סאָרטן לויט אַלף־בית</string>
+    <string name="action_settings">איינשטעלונגען</string>
+    <string name="action_exit">אויסגאַנג</string>
     <string name="button_open">עפֿענען</string>
     <string name="button_cancel">אָפּזאָגן</string>
     <string name="dialog_open_m3u_url_title">אַרײַנגיין URL</string>
     <string name="toast_error_no_app_found">קיין ווידעא־פּלייער־אַפּ געפֿונען</string>
+  <string name="pref_default_m3u_url_title">סטאַנדאַרט M3U שפּיל־ליסטע URL</string>
+  <string name="pref_default_m3u_url_summary">אָנהייב־ווערט אין \"עפֿענען M3U שפּיל־ליסטע URL\" דיאַלאָג.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">קאַנאַל URL מוסטער</string>
+  <string name="pref_channel_url_template_summary">ווען קיין קאַנאַל URL אין דעם M3U הייבט זיך נישט אָן מיט \"http\", פּאַרסיר עס ווי אַ קאָמע־אָפּגעטיילטע רשימה פֿון ווערטן פֿאַר אַרײַנזעצונג אין דעם URL מוסטער.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

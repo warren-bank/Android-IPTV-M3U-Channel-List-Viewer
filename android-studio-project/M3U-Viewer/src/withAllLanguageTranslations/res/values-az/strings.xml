@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U İzləyici</string>
-    <string name="action_exit">Çıxış</string>
     <string name="action_open_m3u_url">Açıq M3U Pleylist URL</string>
     <string name="action_open_m3u_file">Açıq M3U Pleylist faylı</string>
     <string name="action_search">Axtarış</string>
     <string name="action_sort_sequential">Ardıcıl sırala</string>
     <string name="action_sort_alphabetic">Alfabet üzrə sırala</string>
+    <string name="action_settings">Tənzimləmələr</string>
+    <string name="action_exit">Çıxış</string>
     <string name="button_open">Açıq</string>
     <string name="button_cancel">Ləğv et</string>
     <string name="dialog_open_m3u_url_title">Giriş edin URL</string>
     <string name="toast_error_no_app_found">Video pleyer tətbiqi tapılmadı</string>
+  <string name="pref_default_m3u_url_title">Standart M3U Pleylist URL</string>
+  <string name="pref_default_m3u_url_summary">Başlanğıc dəyəri daxil edin \"Açıq M3U Pleylist URL\" dialoq.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanal URL Şablon</string>
+  <string name="pref_channel_url_template_summary">Hər hansı kanal olduqda URL də M3U ilə başlamır \"http\", onu bu yerə əvəzləmək üçün vergüllə ayrılmış dəyərlər siyahısı kimi parse edin URL Şablon.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

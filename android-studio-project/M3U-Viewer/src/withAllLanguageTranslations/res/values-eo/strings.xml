@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Spektanto</string>
-    <string name="action_exit">Eksiri</string>
     <string name="action_open_m3u_url">Malfermita M3U Ludlisto URL</string>
     <string name="action_open_m3u_file">Malfermita M3U Ludlista dosiero</string>
     <string name="action_search">Serĉi</string>
-    <string name="action_sort_sequential">Ordo sekvence</string>
-    <string name="action_sort_alphabetic">Ordigi laŭ alfabeto</string>
+    <string name="action_sort_sequential">Ordigi sekvence</string>
+    <string name="action_sort_alphabetic">Ordo laŭ alfabeto</string>
+    <string name="action_settings">Agordoj</string>
+    <string name="action_exit">Eksiri</string>
     <string name="button_open">Malfermita</string>
     <string name="button_cancel">Anuligi</string>
     <string name="dialog_open_m3u_url_title">Eniri URL</string>
     <string name="toast_error_no_app_found">Neniu videoludila aplikaĵo trovita</string>
+  <string name="pref_default_m3u_url_title">Normala M3U Ludlisto URL</string>
+  <string name="pref_default_m3u_url_summary">Komenca valoro en \"Malfermita M3U Ludlisto URL\" dialogo.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanalo URL Ŝablono</string>
+  <string name="pref_channel_url_template_summary">Kiam ajn iu ajn kanalo URL en la M3U ne komenciĝas per \"http\", analizu ĝin kiel komo-apartigitan liston de valoroj por anstataŭigo en ĉi tion URL ŝablono.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

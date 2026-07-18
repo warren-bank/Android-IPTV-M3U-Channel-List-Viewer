@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">M3U Veitur</string>
-    <string name="action_exit">Saír</string>
+    <string name="app_name">M3U Vistante</string>
     <string name="action_open_m3u_url">Aberto M3U Lista de reprodución URL</string>
     <string name="action_open_m3u_file">Aberto M3U Ficheiro de lista de reprodución</string>
-    <string name="action_search">Busca</string>
+    <string name="action_search">Buscar</string>
     <string name="action_sort_sequential">Ordenar secuencialmente</string>
     <string name="action_sort_alphabetic">Ordenar alfabeticamente</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_exit">Saír</string>
     <string name="button_open">Aberto</string>
     <string name="button_cancel">Cancelar</string>
-    <string name="dialog_open_m3u_url_title">Introduce URL</string>
-    <string name="toast_error_no_app_found">Non se atopou ningunha aplicación de reprodutor de vídeo</string>
+    <string name="dialog_open_m3u_url_title">Entra URL</string>
+    <string name="toast_error_no_app_found">Non se atopou ningunha aplicación reprodutora de vídeo</string>
+  <string name="pref_default_m3u_url_title">Por defecto M3U Lista de reprodución URL</string>
+  <string name="pref_default_m3u_url_summary">Valor inicial en \"Aberto M3U Lista de reprodución URL\" diálogo.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Canle URL Plantilla</string>
+  <string name="pref_channel_url_template_summary">Cando calquera canle URL no M3U non comeza con \"http\", analizalo como unha lista de valores separados por comas para substituír isto URL plantilla.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

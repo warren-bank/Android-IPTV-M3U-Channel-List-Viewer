@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Gledalec</string>
-    <string name="action_exit">Izhod</string>
     <string name="action_open_m3u_url">Odpri M3U Seznam predvajanja URL</string>
     <string name="action_open_m3u_file">Odpri M3U Datoteka s seznamom predvajanja</string>
     <string name="action_search">Iskanje</string>
     <string name="action_sort_sequential">Razvrsti po zaporedju</string>
-    <string name="action_sort_alphabetic">Razvrsti po abecednem redu</string>
+    <string name="action_sort_alphabetic">Razvrsti po abecedi</string>
+    <string name="action_settings">Nastavitve</string>
+    <string name="action_exit">Izhod</string>
     <string name="button_open">Odpri</string>
     <string name="button_cancel">Prekliči</string>
-    <string name="dialog_open_m3u_url_title">Vnesi URL</string>
+    <string name="dialog_open_m3u_url_title">Vnesite URL</string>
     <string name="toast_error_no_app_found">Aplikacija za predvajanje videoposnetkov ni bila najdena</string>
+  <string name="pref_default_m3u_url_title">Privzeto M3U Seznam predvajanja URL</string>
+  <string name="pref_default_m3u_url_summary">Začetna vrednost v \"Odpri M3U Seznam predvajanja URL\" pogovor.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanal URL Predloga</string>
+  <string name="pref_channel_url_template_summary">Ko kateri koli kanal URL v M3U se ne začne z \"http\", razčleni ga kot seznam vrednosti, ločenih z vejicami, za vstavitev v to URL predloga.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

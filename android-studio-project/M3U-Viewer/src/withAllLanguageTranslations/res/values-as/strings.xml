@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U দৰ্শক</string>
-    <string name="action_exit">বহির্গমন</string>
-    <string name="action_open_m3u_url">খোলক M3U প্লেলিষ্ট URL</string>
-    <string name="action_open_m3u_file">খোলক M3U প্লেলিষ্ট ফাইল</string>
+    <string name="action_open_m3u_url">মুকলি M3U প্লেলিষ্ট URL</string>
+    <string name="action_open_m3u_file">মুকলি M3U প্লেলিষ্ট ফাইল</string>
     <string name="action_search">খোজা</string>
     <string name="action_sort_sequential">ক্ৰমানুসাৰে সজাওক</string>
     <string name="action_sort_alphabetic">বৰ্ণানুক্ৰমিক কৰক</string>
-    <string name="button_open">খোলক</string>
+    <string name="action_settings">ছেটিংছ</string>
+    <string name="action_exit">বহির্গমন</string>
+    <string name="button_open">মুকলি</string>
     <string name="button_cancel">বাতিল কৰক</string>
-    <string name="dialog_open_m3u_url_title">সোমোৱা URL</string>
+    <string name="dialog_open_m3u_url_title">সমাৱেশ URL</string>
     <string name="toast_error_no_app_found">কোনো ভিডিঅ\' প্লেয়াৰ এপ পোৱা নগ\'ল</string>
+  <string name="pref_default_m3u_url_title">নিৰ্ধাৰিত M3U প্লেলিষ্ট URL</string>
+  <string name="pref_default_m3u_url_summary">প্ৰাৰম্ভিক মান \"মুকলি M3U প্লেলিষ্ট URL\" সংলাপ.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">চেনেল URL নমুনা</string>
+  <string name="pref_channel_url_template_summary">যেতিয়া কোনো চেনেল URL ৰ ভিতৰত M3U ৰে আৰম্ভ নহয় \"http\", ইয়াক এইটোত প্ৰতিস্থাপনৰ বাবে ক\'মা-বিচ্ছিন্ন মানৰ তালিকা হিচাপে বিশ্লেষণ কৰক URL নমুনা.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

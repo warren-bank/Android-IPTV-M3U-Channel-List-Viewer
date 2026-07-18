@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M3U Prohlížeč</string>
-    <string name="action_exit">Konec</string>
     <string name="action_open_m3u_url">Otevřít M3U Seznam skladeb URL</string>
     <string name="action_open_m3u_file">Otevřít M3U Soubor se seznamem skladeb</string>
     <string name="action_search">Hledat</string>
     <string name="action_sort_sequential">Seřadit postupně</string>
     <string name="action_sort_alphabetic">Seřadit abecedně</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="action_exit">Konec</string>
     <string name="button_open">Otevřít</string>
     <string name="button_cancel">Zrušit</string>
     <string name="dialog_open_m3u_url_title">Zadejte URL</string>
     <string name="toast_error_no_app_found">Nebyla nalezena žádná aplikace pro přehrávání videa</string>
+  <string name="pref_default_m3u_url_title">Výchozí M3U Seznam skladeb URL</string>
+  <string name="pref_default_m3u_url_summary">Počáteční hodnota v \"Otevřít M3U Seznam skladeb URL\" dialog.</string>
+  <string translatable="false" name="pref_default_m3u_url_default"></string>
+  <string name="pref_channel_url_template_title">Kanál URL Šablona</string>
+  <string name="pref_channel_url_template_summary">Pokud se u jakéhokoli kanálu URL v M3U nezačíná slovem \"http\", zpracovat to jako seznam hodnot oddělených čárkami a nahradit jimi tento výraz URL šablona.</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>
