@@ -1,6 +1,8 @@
 package com.github.warren_bank.m3u_viewer;
 
 import com.github.warren_bank.m3u_viewer.models.ChannelListItem;
+import com.github.warren_bank.m3u_viewer.settings.SettingsActivity;
+import com.github.warren_bank.m3u_viewer.settings.SettingsUtils;
 
 import com.github.warren_bank.filterablerecyclerview.Filter;
 import com.github.warren_bank.filterablerecyclerview.FilterableListItem;
@@ -167,6 +169,11 @@ public class ChannelsActivity extends AppCompatActivity implements FilterableLis
                 return true;
             }
 
+            case R.id.action_settings: {
+                SettingsActivity.open(ChannelsActivity.this);
+                return true;
+            }
+
             case R.id.action_exit: {
                 ExitActivity.open(ChannelsActivity.this);
                 return true;
@@ -193,8 +200,12 @@ public class ChannelsActivity extends AppCompatActivity implements FilterableLis
 
     private void showUrlDialog() {
         final EditText input = new EditText(this);
-        input.setHint("https://example.com/playlist.m3u");
         input.setInputType(InputType.TYPE_TEXT_VARIATION_URI);
+        input.setHint(R.string.pref_default_m3u_url_hint);
+        input.setText(
+            SettingsUtils.getDefaultM3uUrlPreference(this),
+            TextView.BufferType.NORMAL
+        );
 
         new AlertDialog.Builder(this)
                 .setTitle(R.string.dialog_open_m3u_url_title)
