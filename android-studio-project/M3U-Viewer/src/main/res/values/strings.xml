@@ -25,4 +25,11 @@
   <string name="pref_default_m3u_url_summary">Initial value in \"Open M3U Playlist URL\" dialog.</string>
   <string translatable="false" name="pref_default_m3u_url_hint">https://example.com/playlist.m3u</string>
   <string translatable="false" name="pref_default_m3u_url_default"></string>
+
+  <!-- Settings: Channel URL Template -->
+  <string translatable="false" name="pref_channel_url_template_key">pref_channel_url_template</string>
+  <string name="pref_channel_url_template_title">Channel URL Template</string>
+  <string name="pref_channel_url_template_summary">When any channel URL in the M3U does not begin with \"http\", parse it as a comma-separated list of values for substitution into this URL template.</string>
+  <string translatable="false" name="pref_channel_url_template_hint">http://kytv.xyz:80/MY-USERNAME/MY-PASSWORD/%1$s.ts</string>
+  <string translatable="false" name="pref_channel_url_template_default"></string>
 </resources>

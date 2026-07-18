@@ -8,10 +8,36 @@ Android app that reads an IPTV M3U file, and displays a list of channels.
 * list of channels can be sorted and filtered
 * clicking on any channel starts an Intent to watch its stream in an external video player
 
+#### Settings:
+
+1. Default M3U Playlist URL
+   - Initial value in "Open M3U Playlist URL" dialog.
+2. Channel URL Template
+   - When any channel URL in the M3U does not begin with "http", parse it as a comma-separated list of values for substitution into this URL template.
+   - Example:
+     * Channel URL Template: `http://kytv.xyz:80/MY-USERNAME/MY-PASSWORD/%1$s.ts`
+     * M3U file
+       ```xml
+       #EXTM3U
+       #EXTINF:-1,CHANNEL 1
+       11111
+       #EXTINF:-1,CHANNEL 2
+       22222
+       #EXTINF:-1,CHANNEL 3
+       https://example.com/33333.ts
+       ```
+     * Resolved Channel URLs
+       - CHANNEL 1 = `http://kytv.xyz:80/MY-USERNAME/MY-PASSWORD/11111.ts`
+       - CHANNEL 2 = `http://kytv.xyz:80/MY-USERNAME/MY-PASSWORD/22222.ts`
+       - CHANNEL 3 = `https://example.com/33333.ts`
+   - Java References:
+     * [`String.format(template, values)`](https://developer.android.com/reference/java/lang/String#format(java.lang.String,%20java.lang.Object[]))
+     * [template syntax](https://developer.android.com/reference/java/util/Formatter.html#syntax)
+
 #### Intent filters:
 
-To enable the automatic updating of channels from an externally bookmarked URL,<br>
-which returns a server response containing a valid IPTV M3U file.
+Enables the automatic updating of channels from an externally bookmarked URL.<br>
+The `data` URL must return a server response that contains a valid IPTV M3U file.
 
 Supported Intents:
 

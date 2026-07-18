@@ -11,5 +11,13 @@
       android:hint="@string/pref_default_m3u_url_hint"
       android:defaultValue="@string/pref_default_m3u_url_default" />
 
+    <EditTextPreference
+      android:key="@string/pref_channel_url_template_key"
+      android:title="@string/pref_channel_url_template_title"
+      android:summary="@string/pref_channel_url_template_summary"
+      android:inputType="text"
+      android:hint="@string/pref_channel_url_template_hint"
+      android:defaultValue="@string/pref_channel_url_template_default" />
+
   </PreferenceCategory>
 </PreferenceScreen>

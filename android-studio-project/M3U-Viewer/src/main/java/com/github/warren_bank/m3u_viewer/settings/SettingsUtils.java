@@ -25,4 +25,17 @@ public class SettingsUtils {
     return prefs.getString(pref_key, val_default);
   }
 
+  // --------------------
+
+  public static String getChannelUrlTemplatePreference(Context context) {
+    return getChannelUrlTemplatePreference(context, getPrefs(context));
+  }
+
+  private static String getChannelUrlTemplatePreference(Context context, SharedPreferences prefs) {
+    String pref_key    = context.getString(R.string.pref_channel_url_template_key);
+    String val_default = context.getString(R.string.pref_channel_url_template_default);
+
+    return prefs.getString(pref_key, val_default);
+  }
+
 }

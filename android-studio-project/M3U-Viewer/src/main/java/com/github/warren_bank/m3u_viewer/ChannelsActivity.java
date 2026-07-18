@@ -199,15 +199,15 @@ public class ChannelsActivity extends AppCompatActivity implements FilterableLis
     // ---------------------------------------------------------------------------------------------
 
     private void showUrlDialog() {
-        final EditText input = new EditText(this);
+        final EditText input = new EditText(ChannelsActivity.this);
         input.setInputType(InputType.TYPE_TEXT_VARIATION_URI);
         input.setHint(R.string.pref_default_m3u_url_hint);
         input.setText(
-            SettingsUtils.getDefaultM3uUrlPreference(this),
+            SettingsUtils.getDefaultM3uUrlPreference(ChannelsActivity.this),
             TextView.BufferType.NORMAL
         );
 
-        new AlertDialog.Builder(this)
+        new AlertDialog.Builder(ChannelsActivity.this)
                 .setTitle(R.string.dialog_open_m3u_url_title)
                 .setView(input)
                 .setPositiveButton(R.string.dialog_open_m3u_url_button_positive, new DialogInterface.OnClickListener() {
@@ -450,10 +450,18 @@ public class ChannelsActivity extends AppCompatActivity implements FilterableLis
     }
 
     private void viewChannel(ChannelListItem channel) {
-        Intent in = new Intent(Intent.ACTION_VIEW, Uri.parse(channel.url));
+        String channelUrl = channel.url;
+        if (!channelUrl.substring(0,4).toLowerCase().equals("http")) {
+            String channelTemplate = SettingsUtils.getChannelUrlTemplatePreference(ChannelsActivity.this);
+            if (channelTemplate.isEmpty()) return;
+
+            String[] args = channelUrl.split("\\s*,\\s*");
+            channelUrl = String.format(channelTemplate, (Object[]) args);
+        }
 
         try {
-            startActivity(in);
+            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(channelUrl));
+            startActivity(intent);
         }
         catch(Exception e) {
             Toast.makeText(ChannelsActivity.this, R.string.toast_error_no_app_found, Toast.LENGTH_SHORT).show();
